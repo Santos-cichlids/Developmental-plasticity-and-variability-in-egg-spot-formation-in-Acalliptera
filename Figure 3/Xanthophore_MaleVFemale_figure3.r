@@ -6,10 +6,10 @@ xantho_scatter <- read.csv("xanthoArea_sex_data.csv", header = TRUE, sep = ",")
 
 cols <- c("goldenrod2", "#fff700")
 
-xantho_plot <- ggplot(data = xantho_scatter, aes(x = Day, y = Coverage))+
-  geom_point(aes(x=Day, y=Coverage, color = Sex, fill = Sex),alpha=1, size =1.5)+
+xantho_plot <- ggplot(data = xantho_scatter, aes(x = SL, y = Area))+
+  geom_point(aes(x=SL, y=Area, color = Sex, fill = Sex),alpha=1, size =1.5)+
   scale_color_manual(values = cols)+
-  geom_smooth(aes(x=Day, y = Coverage, color = Sex), method = lm, formula = y ~ splines::bs(x, 3), se = FALSE,size = 2)+
+  geom_smooth(aes(x=SL, y = Area, color = Sex), method = lm, se = FALSE,size = 2)+
   labs(title = " ", x ="Day", y= expression("Area (mm^2)"))+
   theme (legend.title = element_blank(), 
          legend.background = element_rect( colour = "white", fill = "white"), 

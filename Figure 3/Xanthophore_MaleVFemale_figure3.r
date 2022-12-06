@@ -1,16 +1,113 @@
+install.packages("biomaRT")
+install.packages("carData")
+install.packages("sm")
+install.packages("interplot")
 
 library(ggplot2)
 library(ggpubr)
+library(car)
+library(nortest)
+library(sm)
+library(interplot)
 
-xantho_scatter <- read.csv("xanthoArea_sex_data.csv", header = TRUE, sep = ",")
+#First set the wd and then read in the data
+xantho_scatter <- read.csv("xantho_trial_deep_adults.csv", header = TRUE, sep = ",")
 
+head(xantho_scatter)
+
+###--------------Data exploration and statistical analysis-----###
+
+#Data contains 2 quantitaive variables - xanthophore area coverage (Area) (test variable) and Standard Length (SL) (covariate)
+#Both quantitaive variables are continuous
+#Data contains one nominal variable - Sex 
+
+#H0: There is no difference in Area between males and females
+#HA: There is a difference in Area between males and females
+
+#Required to test impact of covariate(SL) and interaction between covariate
+
+###------------------Test data for normality---------------------###
+
+ad.test(xantho_scatter$Area)
+
+#Area result <0.05 indicating the data area not normal
+#Move to log transform the Area data and test for normality
+
+ad.test(xantho_scatter$Log_Area)
+hist(xantho_scatter$Log_Area)
+
+#Log transformed data p = 0.03638
+
+
+ad.test(xantho_scatter$SL)
+
+#SL p-value result is >0.05. We reject the null hypothesis and 
+#infer that the SL data follows a normal distribution
+
+
+
+###--------------------------Linear regression model------------------------###
+
+#Linear regression model to test the effect of SL, Sex and the interaction between
+#SL and sex on the xanthophore area.
+
+model.1 <- lm (Log_Area ~ SL + Sex + SL:Sex,
+              data = xantho_scatter)
+summary(model.1)
+
+
+#results
+#Interaction interpretation: The effect of sex on xanthophore area coverage is significantly stronger than that of 
+#SL which has a no significant impact on xanthophore area coverage. 
+
+
+#Check results
+hist(residuals(model.1),
+     col="darkgray")
+
+plot(fitted(model.1),
+     residuals(model.1))
+
+#Interaction plot to visualise the correlation between two interaction terms
+interplot(m = model.1, var1='SexM', var2='SL')+
+  labs(x="Sex", y="coefficient for SL")
+
+#Due to the significant difference in slopes we can reject the H0
+#There is a difference in slopes
+
+#Can now run model on single terms to demonstrate independent effect on xanthophore coverage
+
+#Students t-test 
+
+#Bartlett's test for equal variances. If p >= 0.05 equal variances = TRUE 
+bartlett.test(Log_Area ~ Sex, data=xantho_scatter)
+
+#p < 0.05 - equal variances = FALSE
+#Perform welches t-test
+
+t.test(Log_Area ~ Sex, data=xantho_scatter,
+       var.equal=FALSE,
+       conf.level=0.95)
+
+#Is a very highly significant difference between sexes for xanthophore coverage
+
+bartlett.test(SL ~ Sex, data=xantho_scatter)
+t.test(SL ~ Sex, data=xantho_scatter,
+       var.equal=FALSE,
+       conf.level=0.95)
+
+#Is a very highly significant difference between sexes due to Standard Length (SL)
+
+
+#Define colours for the plots
 cols <- c("goldenrod2", "#fff700")
 
-xantho_plot <- ggplot(data = xantho_scatter, aes(x = SL, y = Area))+
-  geom_point(aes(x=SL, y=Area, color = Sex, fill = Sex),alpha=1, size =1.5)+
+
+xantho_plot <- ggplot(data = xantho_scatter, aes(x = SL, y = Log_Area))+
+  geom_point(aes(x = SL, y = Log_Area, color = Sex, fill = Sex), alpha = 1, size = 1.5)+
   scale_color_manual(values = cols)+
-  geom_smooth(aes(x=SL, y = Area, color = Sex), method = lm, se = FALSE,size = 2)+
-  labs(title = " ", x ="Day", y= expression("Area (mm^2)"))+
+  geom_smooth(aes(x=SL, y = Log_Area, color = Sex), method = lm, se = FALSE, size = 2)+
+  labs(title = " ", x ="SL", y= bquote(Log_Area (mm^2)))+
   theme (legend.title = element_blank(), 
          legend.background = element_rect( colour = "white", fill = "white"), 
          legend.box.background = element_rect(colour= "white", fill = "white"), 
@@ -26,5 +123,6 @@ xantho_plot <- ggplot(data = xantho_scatter, aes(x = SL, y = Area))+
          axis.title.y=element_text(size = 12, colour = "black", margin = margin (t=12)), 
          axis.title.x = element_text(size=12, colour = "black", margin = margin(t = 10)))
 
-  
+
 xantho_plot
+

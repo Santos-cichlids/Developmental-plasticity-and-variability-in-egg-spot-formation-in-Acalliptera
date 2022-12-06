@@ -63,14 +63,14 @@ summary(model.1)
 
 #Check results
 hist(residuals(model.1),
-     col="darkgray")
+     col = "darkgray")
 
 plot(fitted(model.1),
      residuals(model.1))
 
 #Interaction plot to visualise the correlation between two interaction terms
-interplot(m = model.1, var1='SexM', var2='SL')+
-  labs(x="Sex", y="coefficient for SL")
+interplot(m = model.1, var1 = 'SexM', var2 = 'SL')+
+  labs(x = "Sex", y = "coefficient for SL")
 
 #Due to the significant difference in slopes we can reject the H0
 #There is a difference in slopes
@@ -80,21 +80,21 @@ interplot(m = model.1, var1='SexM', var2='SL')+
 #Students t-test 
 
 #Bartlett's test for equal variances. If p >= 0.05 equal variances = TRUE 
-bartlett.test(Log_Area ~ Sex, data=xantho_scatter)
+bartlett.test(Log_Area ~ Sex, data = xantho_scatter)
 
 #p < 0.05 - equal variances = FALSE
 #Perform welches t-test
 
-t.test(Log_Area ~ Sex, data=xantho_scatter,
-       var.equal=FALSE,
-       conf.level=0.95)
+t.test(Log_Area ~ Sex, data = xantho_scatter,
+       var.equal = FALSE,
+       conf.level = 0.95)
 
 #Is a very highly significant difference between sexes for xanthophore coverage
 
 bartlett.test(SL ~ Sex, data=xantho_scatter)
-t.test(SL ~ Sex, data=xantho_scatter,
-       var.equal=FALSE,
-       conf.level=0.95)
+t.test(SL ~ Sex, data = xantho_scatter,
+       var.equal = FALSE,
+       conf.level = 0.95)
 
 #Is a very highly significant difference between sexes due to Standard Length (SL)
 
@@ -106,22 +106,22 @@ cols <- c("goldenrod2", "#fff700")
 xantho_plot <- ggplot(data = xantho_scatter, aes(x = SL, y = Log_Area))+
   geom_point(aes(x = SL, y = Log_Area, color = Sex, fill = Sex), alpha = 1, size = 1.5)+
   scale_color_manual(values = cols)+
-  geom_smooth(aes(x=SL, y = Log_Area, color = Sex), method = lm, se = FALSE, size = 2)+
-  labs(title = " ", x ="SL", y= bquote(Log_Area (mm^2)))+
+  geom_smooth(aes(x = SL, y = Log_Area, color = Sex), method = lm, se = FALSE, size = 2)+
+  labs(title = " ", x = "SL", y = bquote(Log_Area (mm^2)))+
   theme (legend.title = element_blank(), 
-         legend.background = element_rect( colour = "white", fill = "white"), 
-         legend.box.background = element_rect(colour= "white", fill = "white"), 
-         legend.key = element_rect( colour = "white", fill = "white"),
+         legend.background = element_rect(colour = "white", fill = "white"), 
+         legend.box.background = element_rect(colour = "white", fill = "white"), 
+         legend.key = element_rect(colour = "white", fill = "white"),
          legend.text = element_text(size = 12, colour = "black"), 
          plot.title = element_text(hjust = 0.25, size=12), 
          axis.text = element_text(size = 12, colour="black"), 
          panel.border = element_blank(), panel.grid.major = element_blank(), 
          panel.grid.minor = element_blank(), 
-         axis.line = element_line(colour = "black", size=0.5),
+         axis.line = element_line(colour = "black", size = 0.5),
          panel.background = element_rect(fill = "white"),
          plot.background = element_rect(colour = "white", fill = "white"), 
-         axis.title.y=element_text(size = 12, colour = "black", margin = margin (t=12)), 
-         axis.title.x = element_text(size=12, colour = "black", margin = margin(t = 10)))
+         axis.title.y = element_text(size = 12, colour = "black", margin = margin(t = 12)), 
+         axis.title.x = element_text(size = 12, colour = "black", margin = margin(t = 10)))
 
 
 xantho_plot

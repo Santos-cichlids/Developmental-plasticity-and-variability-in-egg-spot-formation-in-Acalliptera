@@ -58,11 +58,10 @@ hist(xantho_scatter$SL)
 
 ###--------------------------Linear regression model------------------------###
 
-#Linear regression model to test the effect of SL, Sex and the interaction between
+#Repeated measures linear regression mixed model to test the effect of Sex, SL and the interaction between
 #SL and sex on the xanthophore area.
 
-model.1 <- lm(Log_Area ~ SL + Sex + SL:Sex,
-               data = xantho_scatter)
+model.1 <- lme(Log_Area ~ Sex + Sex*SL, random = ~1 |id/SL, data = xantho_scatter)
 summary(model.1)
 
 #results

@@ -103,7 +103,7 @@ xantho_plot <- ggplot(data = xantho_scatter, aes(x = SL, y = Log_Area))+
          axis.text = element_text(size = 12, colour = "black"), 
          panel.border = element_blank(), panel.grid.major = element_blank(), 
          panel.grid.minor = element_blank(), 
-         axis.line = element_line(colour = "black", size=0.5),
+         axis.line = element_line(colour = "black", size=1),
          panel.background = element_rect(fill = "white"),
          plot.background = element_rect(colour = "white", fill = "white"), 
          axis.title.y = element_text(size = 12, colour = "black", margin = margin (t = 12)), 

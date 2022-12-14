@@ -86,7 +86,7 @@ summary(Posthoc_Male)
 barplot(Posthoc_Male)
 
 #Define colours for the plots
-cols <- c("palegreen3", "mediumorchid3")
+cols <- c("#8D8A91", "#BF675E")
 
 
 xantho_plot <- ggplot(data = xantho_scatter, aes(x = SL, y = Log_Area))+

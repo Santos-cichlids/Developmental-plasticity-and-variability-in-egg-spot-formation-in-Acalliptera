@@ -39,7 +39,7 @@ melano_plot <- ggplot(data = melano_numbers,
              alpha = 1, 
              size = 1)+
   
-  #Add a linear model polynomial trendline to the melanophore datapoints
+  #Add a linear model polynomial trendline to the melanophore datapoints for each of the morphs
   geom_smooth(aes(x = dpf, y = Melanophore_numbers, color = Morph), method = lm, formula = y ~ poly(x, 2), se = FALSE, size = 2)+
   scale_color_manual(values = cols)+
   labs(title = " ", x ="dpf", y= "Melanophores (n)")+

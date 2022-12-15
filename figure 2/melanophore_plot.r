@@ -11,22 +11,21 @@ cols <- c("#6896D4", "#F5C258")
 
 melano_plot <- ggplot(data = melano_numbers, 
                       #Use Aesthetic mapping (aes) to assign variables to the x and y axis
-                      aes(x=dpf, y=Melanophore_numbers, 
-                          colour = "black", 
-                          fill = "black"))+
-  geom_point(alpha=1, size =1.5, colour = "black")+
+                      aes(x = dpf, y = Melanophore_numbers, 
+                          colour = "black"))+
+  geom_point(alpha = 1, size = 1.5, colour = "black")+
   
   #See additional csv file entitled "chromatophore_appearance_data.csv" for stats info included in plot
   
   #Add rectangle to the plot which represents the range of dpf iridophores appear in the dataset for shallow morphs
-  geom_rect(aes(xmin=20, xmax=23, ymin=Inf, ymax=-Inf), 
-            fill="#F5C258", 
-            alpha=0.01, 
+  geom_rect(aes(xmin = 20, xmax = 23, ymin = Inf, ymax = -Inf), 
+            fill = "#F5C258", 
+            alpha = 0.01, 
             inherit.aes = FALSE) +
   #Add rectangle to the plot which represents the range of dpf iridophores appear in the dataset for deep morphs
-  geom_rect(aes(xmin=18, xmax=21, ymin=Inf, ymax=-Inf), 
-            fill="#6896d4", 
-            alpha=0.01, 
+  geom_rect(aes(xmin = 18, xmax = 21, ymin = Inf, ymax = -Inf), 
+            fill = "#6896d4", 
+            alpha = 0.01, 
             inherit.aes = FALSE) +
   
   #Add a line to the plot representing the mean iridophores appearance dpf in the dataset in the shallow morphs
@@ -46,8 +45,12 @@ melano_plot <- ggplot(data = melano_numbers,
   labs(title = " ", x ="dpf", y= "Melanophores (n)")+
   
   #Customize graph to remove standard R plot details
-  theme(legend.position="none",
-        legend.title = element_blank(),
+  theme(legend.title = element_blank(), 
+        legend.position = c(.8, .700),
+        legend.background = element_rect(colour = "white", fill = "white"), 
+        legend.box.background = element_rect(colour = "white", fill = "white"), 
+        legend.key = element_rect(colour = "white", fill = "white"),
+        legend.text = element_text(size = 12, colour = "black"), 
         plot.title = element_text(hjust = 0.5, size=12),
         axis.text = element_text(size = 12, colour="black"), 
         panel.border = element_blank(), 

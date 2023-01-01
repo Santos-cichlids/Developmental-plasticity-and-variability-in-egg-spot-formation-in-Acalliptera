@@ -1,0 +1,636 @@
+﻿Individual,Morph,Start  date,Event ,Cell,Date,Day,Sex,Clutch,Cohort
+EB 1,Benthic,01/03/2022,xanthophores in fin,Xanthophore,04/03/2022,3,,,f emb_deep
+EB 2,Benthic,01/03/2022,xanthophores in fin,Xanthophore,05/03/2022,4,,,f emb_deep
+EB 3,Benthic,01/03/2022,xanthophores in fin,Xanthophore,03/03/2022,2,,,f emb_deep
+EB 4,Benthic,01/03/2022,xanthophores in fin,Xanthophore,03/03/2022,2,,,f emb_deep
+EB 5,Benthic,01/03/2022,xanthophores in fin,Xanthophore,03/03/2022,2,,,f emb_deep
+EB 6,Benthic,01/03/2022,xanthophores in fin,Xanthophore,04/03/2022,3,,,f emb_deep
+EB 7,Benthic,01/03/2022,xanthophores in fin,Xanthophore,04/03/2022,3,,,f emb_deep
+EB 8,Benthic,01/03/2022,xanthophores in fin,Xanthophore,05/03/2022,4,,,f emb_deep
+EL 1,Littoral,30/06/2021,xanthophores in fin,Xanthophore,06/07/2021,6,,,e emb_shallow
+EL 2,Littoral,30/06/2021,xanthophores in fin,Xanthophore,04/07/2021,4,,,e emb_shallow
+EL 3,Littoral,30/06/2021,xanthophores in fin,Xanthophore,09/07/2021,9,,,e emb_shallow
+EL 4,Littoral,30/06/2021,xanthophores in fin,Xanthophore,03/07/2021,3,,,e emb_shallow
+EL 5,Littoral,30/06/2021,xanthophores in fin,Xanthophore,04/07/2021,4,,,e emb_shallow
+EL 6,Littoral,30/06/2021,xanthophores in fin,Xanthophore,05/07/2021,5,,,e emb_shallow
+EL 7,Littoral,30/06/2021,xanthophores in fin,Xanthophore,08/07/2021,8,,,e emb_shallow
+EL 8,Littoral,30/06/2021,xanthophores in fin,Xanthophore,08/07/2021,8,,,e emb_shallow
+EL 9,Littoral,30/06/2021,xanthophores in fin,Xanthophore,04/07/2021,4,,,e emb_shallow
+EB 1,Benthic,01/03/2022,iridophores in fin,Iridophores,10/03/2022,9,,,f emb_deep
+EB 2,Benthic,01/03/2022,iridophores in fin,Iridophores,10/03/2022,9,,,f emb_deep
+EB 3,Benthic,01/03/2022,iridophores in fin,Iridophores,10/03/2022,9,,,f emb_deep
+EB 4,Benthic,01/03/2022,iridophores in fin,Iridophores,10/03/2022,9,,,f emb_deep
+EB 5,Benthic,01/03/2022,iridophores in fin,Iridophores,10/03/2022,9,,,f emb_deep
+EB 7,Benthic,01/03/2022,iridophores in fin,Iridophores,11/03/2022,10,,,f emb_deep
+EL 1,Littoral,30/06/2021,iridophores in fin,Iridophores,10/07/2021,10,,,e emb_shallow
+EL 2,Littoral,30/06/2021,iridophores in fin,Iridophores,09/07/2021,9,,,e emb_shallow
+EL 3,Littoral,30/06/2021,iridophores in fin,Iridophores,10/07/2021,10,,,e emb_shallow
+EL 4,Littoral,30/06/2021,iridophores in fin,Iridophores,09/07/2021,9,,,e emb_shallow
+EL 5,Littoral,30/06/2021,iridophores in fin,Iridophores,10/07/2021,10,,,e emb_shallow
+EL 6,Littoral,30/06/2021,iridophores in fin,Iridophores,12/07/2021,,,,e emb_shallow
+EL 7,Littoral,30/06/2021,iridophores in fin,Iridophores,11/07/2021,,,,e emb_shallow
+EL 8,Littoral,30/06/2021,iridophores in fin,Iridophores,09/07/2021,9,,,e emb_shallow
+EL 9,Littoral,30/06/2021,iridophores in fin,Iridophores,,,,,e emb_shallow
+DA 1,Benthic,07/07/2022,xanthophores in fin,Xanthophore,07/07/2022,0,F,Madingley,b socialised_deep
+DA 1,Benthic,07/07/2022,iridophores in fin,Iridophore,07/07/2022,0,F,Madingley,b socialised_deep
+DA 1,Benthic,07/07/2022,iridophores 4-5,Iridophore,07/07/2022,0,F,Madingley,b socialised_deep
+DA 1,Benthic,07/07/2022,associations 3-5,Iridophore,12/07/2022,5,F,Madingley,b socialised_deep
+DA 1,Benthic,07/07/2022,first aggregates,Iridophore,12/07/2022,5,F,Madingley,b socialised_deep
+DA 1,Benthic,07/07/2022,iridophores at next (temp) aggregation,Iridophore,12/07/2022,5,F,Madingley,b socialised_deep
+DA 1,Benthic,07/07/2022,iridophores at second aggregation,Iridophore,,,F,Madingley,b socialised_deep
+DA 1,Benthic,07/07/2022,associations at second,Iridophore,,,F,Madingley,b socialised_deep
+DA 1,Benthic,07/07/2022,second aggregates ,Iridophore,,,F,Madingley,b socialised_deep
+DA 1,Benthic,07/07/2022,iridophores at edge aggregation ,Iridophore,,,F,Madingley,b socialised_deep
+DA 1,Benthic,07/07/2022,associations at edge,Iridophore,,,F,Madingley,b socialised_deep
+DA 1,Benthic,07/07/2022,edge aggregates,Iridophore,,,F,Madingley,b socialised_deep
+DA 1,Benthic,07/07/2022,first aggregation resolves,Iridophore,,,F,Madingley,b socialised_deep
+DA 1,Benthic,07/07/2022,second aggregation resolves,Iridophore,,,F,Madingley,b socialised_deep
+DA 1,Benthic,07/07/2022,edge aggregation resolves,Iridophore,,,F,Madingley,b socialised_deep
+DA 1,Benthic,07/07/2022,first spot ring clear,None,,,F,Madingley,b socialised_deep
+DA 1,Benthic,07/07/2022,second spot ring clear,None,,,F,Madingley,b socialised_deep
+DA 1,Benthic,07/07/2022,edge spot ring clear,None,,,F,Madingley,b socialised_deep
+DA 2,Benthic,07/07/2022,xanthophores in fin,Xanthophore,07/07/2022,0,M,omb,b socialised_deep
+DA 2,Benthic,07/07/2022,iridophores in fin,Iridophore,07/07/2022,0,M,omb,b socialised_deep
+DA 2,Benthic,07/07/2022,iridophores 4-5,Iridophore,17/07/2022,10,M,omb,b socialised_deep
+DA 2,Benthic,07/07/2022,associations 3-5,Iridophore,01/08/2022,25,M,omb,b socialised_deep
+DA 2,Benthic,07/07/2022,first aggregates,Iridophore,22/07/2022,15,M,omb,b socialised_deep
+DA 2,Benthic,07/07/2022,iridophores at next (temp) aggregation,Iridophore,11/08/2022,35,M,omb,b socialised_deep
+DA 2,Benthic,07/07/2022,iridophores at second aggregation,Iridophore,16/09/2022,71,M,omb,b socialised_deep
+DA 2,Benthic,07/07/2022,associations at second,Iridophore,28/09/2022,83,M,omb,b socialised_deep
+DA_2,Benthic,07/07/2022,second aggregates ,Iridophore,07/10/2022,92,M,omb,b socialised_deep
+DA 2,Benthic,07/07/2022,iridophores at edge aggregation ,Iridophore,16/09/2022,71,M,omb,b socialised_deep
+DA 2,Benthic,07/07/2022,associations at edge,Iridophore,28/09/2022,83,M,omb,b socialised_deep
+DA 2,Benthic,07/07/2022,edge aggregates,Iridophore,17/10/2022,102,M,omb,b socialised_deep
+DA 2,Benthic,07/07/2022,first aggregation resolves,Iridophore,02/10/2022,87,M,omb,b socialised_deep
+DA 2,Benthic,07/07/2022,second aggregation resolves,Iridophore,17/10/2022,102,M,omb,b socialised_deep
+DA 2,Benthic,07/07/2022,edge aggregation resolves,Iridophore,,,M,omb,b socialised_deep
+DA 2,Benthic,07/07/2022,first spot ring clear,None,25/11/2022,141,M,omb,b socialised_deep
+DA 2,Benthic,07/07/2022,second spot ring clear,None,,,M,omb,b socialised_deep
+DA 2,Benthic,07/07/2022,edge spot ring clear,None,17/10/2022,102,M,omb,b socialised_deep
+DA 3,Benthic,07/07/2022,xanthophores in fin,Xanthophore,07/07/2022,0,F,omb,b socialised_deep
+DA 3,Benthic,07/07/2022,iridophores in fin,Iridophore,12/07/2022,5,F,omb,b socialised_deep
+DA 3,Benthic,07/07/2022,iridophores 4-5,Iridophore,17/07/2022,10,F,omb,b socialised_deep
+DA 3,Benthic,07/07/2022,associations 3-5,Iridophore,17/07/2022,10,F,omb,b socialised_deep
+DA 3,Benthic,07/07/2022,first aggregates,Iridophore,22/07/2022,15,F,omb,b socialised_deep
+DA 3,Benthic,07/07/2022,iridophores at next (temp) aggregation,Iridophore,17/07/2022,10,F,omb,b socialised_deep
+DA 3,Benthic,07/07/2022,iridophores at second aggregation,Iridophore,17/07/2022,10,F,omb,b socialised_deep
+DA 3,Benthic,07/07/2022,associations at second,Iridophore,01/08/2022,25,F,omb,b socialised_deep
+DA 3,Benthic,07/07/2022,second aggregates ,Iridophore,06/08/2022,30,F,omb,b socialised_deep
+DA 3,Benthic,07/07/2022,iridophores at edge aggregation ,Iridophore,18/11/2022,134,F,omb,b socialised_deep
+DA 3,Benthic,07/07/2022,associations at edge,Iridophore,18/11/2022,134,F,omb,b socialised_deep
+DA 3,Benthic,07/07/2022,edge aggregates,Iridophore,25/11/2022,141,F,omb,b socialised_deep
+DA 3,Benthic,07/07/2022,first aggregation resolves,Iridophore,,,F,omb,b socialised_deep
+DA 3,Benthic,07/07/2022,second aggregation resolves,Iridophore,07/11/2022,123,F,omb,b socialised_deep
+DA 3,Benthic,07/07/2022,edge aggregation resolves,Iridophore,,,F,omb,b socialised_deep
+DA 3,Benthic,07/07/2022,first spot ring clear,None,,,F,omb,b socialised_deep
+DA 3,Benthic,07/07/2022,second spot ring clear,None,,,F,omb,b socialised_deep
+DA 3,Benthic,07/07/2022,edge spot ring clear,None,,,F,omb,b socialised_deep
+DA 4,Benthic,07/07/2022,xanthophores in fin,Xanthophore,07/07/2022,0,F,omb,b socialised_deep
+DA 4,Benthic,07/07/2022,iridophores in fin,Iridophore,07/07/2022,0,F,omb,b socialised_deep
+DA 4,Benthic,07/07/2022,iridophores 4-5,Iridophore,07/07/2022,0,F,omb,b socialised_deep
+DA 4,Benthic,07/07/2022,associations 3-5,Iridophore,12/07/2022,5,F,omb,b socialised_deep
+DA 4,Benthic,07/07/2022,first aggregates,Iridophore,17/07/2022,10,F,omb,b socialised_deep
+DA 4,Benthic,07/07/2022,iridophores at next (temp) aggregation,Iridophore,26/08/2022,50,F,omb,b socialised_deep
+DA 4,Benthic,07/07/2022,iridophores at second aggregation,Iridophore,26/08/2022,50,F,omb,b socialised_deep
+DA 4,Benthic,07/07/2022,associations at second,Iridophore,26/08/2022,50,F,omb,b socialised_deep
+DA 4,Benthic,07/07/2022,second aggregates ,Iridophore,28/09/2022,83,F,omb,b socialised_deep
+DA 4,Benthic,07/07/2022,iridophores at edge aggregation ,Iridophore,18/11/2022,134,F,omb,b socialised_deep
+DA 4,Benthic,07/07/2022,associations at edge,Iridophore,18/11/2022,134,F,omb,b socialised_deep
+DA 4,Benthic,07/07/2022,edge aggregates,Iridophore,,,F,omb,b socialised_deep
+DA 4,Benthic,07/07/2022,first aggregation resolves,Iridophore,,,F,omb,b socialised_deep
+DA 4,Benthic,07/07/2022,second aggregation resolves,Iridophore,18/11/2022,134,F,omb,b socialised_deep
+DA 4,Benthic,07/07/2022,edge aggregation resolves,Iridophore,,,F,omb,b socialised_deep
+DA 4,Benthic,07/07/2022,first spot ring clear,None,,,F,omb,b socialised_deep
+DA 4,Benthic,07/07/2022,second spot ring clear,None,,,F,omb,b socialised_deep
+DA 4,Benthic,07/07/2022,edge spot ring clear,None,,,F,omb,b socialised_deep
+DA 5,Benthic,07/07/2022,xanthophores in fin,Xanthophore,07/07/2022,0,M,Madingley,b socialised_deep
+DA 5,Benthic,07/07/2022,iridophores in fin,Iridophore,07/07/2022,0,M,Madingley,b socialised_deep
+DA 5,Benthic,07/07/2022,iridophores 4-5,Iridophore,12/07/2022,5,M,Madingley,b socialised_deep
+DA 5,Benthic,07/07/2022,associations 3-5,Iridophore,12/07/2022,5,M,Madingley,b socialised_deep
+DA 5,Benthic,07/07/2022,first aggregates,Iridophore,17/07/2022,10,M,Madingley,b socialised_deep
+DA 5,Benthic,07/07/2022,iridophores at next (temp) aggregation,Iridophore,12/07/2022,5,M,Madingley,b socialised_deep
+DA 5,Benthic,07/07/2022,iridophores at second aggregation,Iridophore,12/07/2022,5,M,Madingley,b socialised_deep
+DA 5,Benthic,07/07/2022,associations at second,Iridophore,17/07/2022,10,M,Madingley,b socialised_deep
+DA 5,Benthic,07/07/2022,second aggregates ,Iridophore,22/07/2022,15,M,Madingley,b socialised_deep
+DA 5,Benthic,07/07/2022,iridophores at edge aggregation ,Iridophore,16/09/2022,71,M,Madingley,b socialised_deep
+DA 5,Benthic,07/07/2022,associations at edge,Iridophore,28/09/2022,83,M,Madingley,b socialised_deep
+DA 5,Benthic,07/07/2022,edge aggregates,Iridophore,17/10/2022,102,M,Madingley,b socialised_deep
+DA 5,Benthic,07/07/2022,first aggregation resolves,Iridophore,,,M,Madingley,b socialised_deep
+DA 5,Benthic,07/07/2022,second aggregation resolves,Iridophore,,,M,Madingley,b socialised_deep
+DA 5,Benthic,07/07/2022,edge aggregation resolves,Iridophore,,,M,Madingley,b socialised_deep
+DA 5,Benthic,07/07/2022,first spot ring clear,None,,,M,Madingley,b socialised_deep
+DA 5,Benthic,07/07/2022,second spot ring clear,None,31/08/2022,55,M,Madingley,b socialised_deep
+DA 5,Benthic,07/07/2022,edge spot ring clear,None,,,M,Madingley,b socialised_deep
+DA 6,Benthic,07/07/2022,xanthophores in fin,Xanthophore,07/07/2022,0,F,omb,b socialised_deep
+DA 6,Benthic,07/07/2022,iridophores in fin,Iridophore,12/07/2022,5,F,omb,b socialised_deep
+DA 6,Benthic,07/07/2022,iridophores 4-5,Iridophore,12/07/2022,5,F,omb,b socialised_deep
+DA 6,Benthic,07/07/2022,associations 3-5,Iridophore,17/07/2022,10,F,omb,b socialised_deep
+DA 6,Benthic,07/07/2022,first aggregates,Iridophore,22/07/2022,15,F,omb,b socialised_deep
+DA 6,Benthic,07/07/2022,iridophores at next (temp) aggregation,Iridophore,22/07/2022,15,F,omb,b socialised_deep
+DA 6,Benthic,07/07/2022,iridophores at second aggregation,Iridophore,22/07/2022,15,F,omb,b socialised_deep
+DA 6,Benthic,07/07/2022,associations at second,Iridophore,01/08/2022,25,F,omb,b socialised_deep
+DA 6,Benthic,07/07/2022,second aggregates ,Iridophore,01/08/2022,25,F,omb,b socialised_deep
+DA 6,Benthic,07/07/2022,iridophores at edge aggregation ,Iridophore,,,F,omb,b socialised_deep
+DA 6,Benthic,07/07/2022,associations at edge,Iridophore,,,F,omb,b socialised_deep
+DA 6,Benthic,07/07/2022,edge aggregates,Iridophore,,,F,omb,b socialised_deep
+DA 6,Benthic,07/07/2022,first aggregation resolves,Iridophore,,,F,omb,b socialised_deep
+DA 6,Benthic,07/07/2022,second aggregation resolves,Iridophore,,,F,omb,b socialised_deep
+DA 6,Benthic,07/07/2022,edge aggregation resolves,Iridophore,,,F,omb,b socialised_deep
+DA 6,Benthic,07/07/2022,first spot ring clear,None,,,F,omb,b socialised_deep
+DA 6,Benthic,07/07/2022,second spot ring clear,None,,,F,omb,b socialised_deep
+DA 6,Benthic,07/07/2022,edge spot ring clear,None,,,F,omb,b socialised_deep
+DA 7,Benthic,07/07/2022,xanthophores in fin,Xanthophore,07/07/2022,0,M,Madingley,b socialised_deep
+DA 7,Benthic,07/07/2022,iridophores in fin,Iridophore,07/07/2022,0,M,Madingley,b socialised_deep
+DA 7,Benthic,07/07/2022,iridophores 4-5,Iridophore,07/07/2022,0,M,Madingley,b socialised_deep
+DA 7,Benthic,07/07/2022,associations 3-5,Iridophore,12/07/2022,5,M,Madingley,b socialised_deep
+DA 7,Benthic,07/07/2022,first aggregates,Iridophore,12/07/2022,5,M,Madingley,b socialised_deep
+DA 7,Benthic,07/07/2022,iridophores at next (temp) aggregation,Iridophore,01/08/2022,25,M,Madingley,b socialised_deep
+DA 7,Benthic,07/07/2022,iridophores at second aggregation,Iridophore,01/08/2022,25,M,Madingley,b socialised_deep
+DA 7,Benthic,07/07/2022,associations at second,Iridophore,11/08/2022,35,M,Madingley,b socialised_deep
+DA 7,Benthic,07/07/2022,second aggregates ,Iridophore,21/08/2022,45,M,Madingley,b socialised_deep
+DA 7,Benthic,07/07/2022,iridophores at edge aggregation ,Iridophore,22/07/2022,15,M,Madingley,b socialised_deep
+DA 7,Benthic,07/07/2022,associations at edge,Iridophore,11/08/2022,35,M,Madingley,b socialised_deep
+DA 7,Benthic,07/07/2022,edge aggregates,Iridophore,16/08/2022,40,M,Madingley,b socialised_deep
+DA 7,Benthic,07/07/2022,first aggregation resolves,Iridophore,,,M,Madingley,b socialised_deep
+DA 7,Benthic,07/07/2022,second aggregation resolves,Iridophore,16/09/2022,71,M,Madingley,b socialised_deep
+DA 7,Benthic,07/07/2022,edge aggregation resolves,Iridophore,,,M,Madingley,b socialised_deep
+DA 7,Benthic,07/07/2022,first spot ring clear,None,02/12/2022,148,M,Madingley,b socialised_deep
+DA 7,Benthic,07/07/2022,second spot ring clear,None,,,M,Madingley,b socialised_deep
+DA 7,Benthic,07/07/2022,edge spot ring clear,None,25/11/2022,141,M,Madingley,b socialised_deep
+DA 8,Benthic,07/07/2022,xanthophores in fin,Xanthophore,07/07/2022,0,F,omb,b socialised_deep
+DA 8,Benthic,07/07/2022,iridophores in fin,Iridophore,17/07/2022,10,F,omb,b socialised_deep
+DA 8,Benthic,07/07/2022,iridophores 4-5,Iridophore,17/07/2022,10,F,omb,b socialised_deep
+DA 8,Benthic,07/07/2022,associations 3-5,Iridophore,22/07/2022,15,F,omb,b socialised_deep
+DA 8,Benthic,07/07/2022,first aggregates,Iridophore,22/07/2022,15,F,omb,b socialised_deep
+DA 8,Benthic,07/07/2022,iridophores at next (temp) aggregation,Iridophore,11/08/2022,35,F,omb,b socialised_deep
+DA 8,Benthic,07/07/2022,iridophores at second aggregation,Iridophore,11/08/2022,35,F,omb,b socialised_deep
+DA 8,Benthic,07/07/2022,associations at second,Iridophore,21/08/2022,45,F,omb,b socialised_deep
+DA 8,Benthic,07/07/2022,second aggregates ,Iridophore,26/08/2022,50,F,omb,b socialised_deep
+DA 8,Benthic,07/07/2022,iridophores at edge aggregation ,Iridophore,,,F,omb,b socialised_deep
+DA 8,Benthic,07/07/2022,associations at edge,Iridophore,,,F,omb,b socialised_deep
+DA 8,Benthic,07/07/2022,edge aggregates,Iridophore,,,F,omb,b socialised_deep
+DA 8,Benthic,07/07/2022,first aggregation resolves,Iridophore,02/12/2022,148,F,omb,b socialised_deep
+DA 8,Benthic,07/07/2022,second aggregation resolves,Iridophore,,,F,omb,b socialised_deep
+DA 8,Benthic,07/07/2022,edge aggregation resolves,Iridophore,,,F,omb,b socialised_deep
+DA 8,Benthic,07/07/2022,first spot ring clear,None,,,F,omb,b socialised_deep
+DA 8,Benthic,07/07/2022,second spot ring clear,None,,,F,omb,b socialised_deep
+DA 8,Benthic,07/07/2022,edge spot ring clear,None,,,F,omb,b socialised_deep
+DA 9,Benthic,07/07/2022,xanthophores in fin,Xanthophore,07/07/2022,0,M,Madingley,b socialised_deep
+DA 9,Benthic,07/07/2022,iridophores in fin,Iridophore,07/07/2022,0,M,Madingley,b socialised_deep
+DA 9,Benthic,07/07/2022,iridophores 4-5,Iridophore,07/07/2022,0,M,Madingley,b socialised_deep
+DA 9,Benthic,07/07/2022,associations 3-5,Iridophore,17/07/2022,10,M,Madingley,b socialised_deep
+DA 9,Benthic,07/07/2022,first aggregates,Iridophore,22/07/2022,15,M,Madingley,b socialised_deep
+DA 9,Benthic,07/07/2022,iridophores at next (temp) aggregation,Iridophore,12/07/2022,5,M,Madingley,b socialised_deep
+DA 9,Benthic,07/07/2022,iridophores at second aggregation,Iridophore,06/08/2022,30,M,Madingley,b socialised_deep
+DA 9,Benthic,07/07/2022,associations at second,Iridophore,26/08/2022,50,M,Madingley,b socialised_deep
+DA 9,Benthic,07/07/2022,second aggregates ,Iridophore,02/10/2022,87,M,Madingley,b socialised_deep
+DA 9,Benthic,07/07/2022,iridophores at edge aggregation ,Iridophore,22/07/2022,15,M,Madingley,b socialised_deep
+DA 9,Benthic,07/07/2022,associations at edge,Iridophore,06/08/2022,30,M,Madingley,b socialised_deep
+DA 9,Benthic,07/07/2022,edge aggregates,Iridophore,16/09/2022,71,M,Madingley,b socialised_deep
+DA 9,Benthic,07/07/2022,first aggregation resolves,Iridophore,,,M,Madingley,b socialised_deep
+DA 9,Benthic,07/07/2022,second aggregation resolves,Iridophore,25/11/2022,141,M,Madingley,b socialised_deep
+DA 9,Benthic,07/07/2022,edge aggregation resolves,Iridophore,,-44749,M,Madingley,b socialised_deep
+DA 9,Benthic,07/07/2022,first spot ring clear,None,02/12/2022,148,M,Madingley,b socialised_deep
+DA 9,Benthic,07/07/2022,second spot ring clear,None,,,M,Madingley,b socialised_deep
+DA 9,Benthic,07/07/2022,edge spot ring clear,None,,,M,Madingley,b socialised_deep
+DA 10,Benthic,07/07/2022,xanthophores in fin,Xanthophore,07/07/2022,0,M,Madingley,b socialised_deep
+DA 10,Benthic,07/07/2022,iridophores in fin,Iridophore,07/07/2022,0,M,Madingley,b socialised_deep
+DA 10,Benthic,07/07/2022,iridophores 4-5,Iridophore,07/07/2022,0,M,Madingley,b socialised_deep
+DA 10,Benthic,07/07/2022,associations 3-5,Iridophore,17/07/2022,10,M,Madingley,b socialised_deep
+DA 10,Benthic,07/07/2022,first aggregates,Iridophore,17/07/2022,10,M,Madingley,b socialised_deep
+DA 10,Benthic,07/07/2022,iridophores at next (temp) aggregation,Iridophore,22/07/2022,15,M,Madingley,b socialised_deep
+DA 10,Benthic,07/07/2022,iridophores at second aggregation,Iridophore,01/08/2022,25,M,Madingley,b socialised_deep
+DA 10,Benthic,07/07/2022,associations at second,Iridophore,26/08/2022,50,M,Madingley,b socialised_deep
+DA 10,Benthic,07/07/2022,second aggregates ,Iridophore,16/09/2022,71,M,Madingley,b socialised_deep
+DA 10,Benthic,07/07/2022,iridophores at edge aggregation ,Iridophore,28/09/2022,83,M,Madingley,b socialised_deep
+DA 10,Benthic,07/07/2022,associations at edge,Iridophore,02/10/2022,87,M,Madingley,b socialised_deep
+DA 10,Benthic,07/07/2022,edge aggregates,Iridophore,07/10/2022,92,M,Madingley,b socialised_deep
+DA 10,Benthic,07/07/2022,first aggregation resolves,Iridophore,07/10/2022,92,M,Madingley,b socialised_deep
+DA 10,Benthic,07/07/2022,second aggregation resolves,Iridophore,,,M,Madingley,b socialised_deep
+DA 10,Benthic,07/07/2022,edge aggregation resolves,Iridophore,,,M,Madingley,b socialised_deep
+DA 10,Benthic,07/07/2022,first spot ring clear,None,,,M,Madingley,b socialised_deep
+DA 10,Benthic,07/07/2022,second spot ring clear,None,,,M,Madingley,b socialised_deep
+DA 10,Benthic,07/07/2022,edge spot ring clear,None,,,M,Madingley,b socialised_deep
+A1,Littoral,19/03/2021,xanthophores in fin,Xanthophore,19/03/2021,0,F,,a socialised_shallow
+A1,Littoral,19/03/2021,iridophores in fin,Iridophore,19/03/2021,0,F,,a socialised_shallow
+A1,Littoral,19/03/2021,iridophores 4-5,Iridophore,19/03/2021,0,F,,a socialised_shallow
+A1,Littoral,19/03/2021,first aggregates,Iridophore,19/03/2021,0,F,,a socialised_shallow
+A1,Littoral,19/03/2021,associations 3-5,Iridophore,19/03/2021,0,F,,a socialised_shallow
+A1,Littoral,19/03/2021,iridophores at second aggregation,Iridophore,19/03/2021,0,F,,a socialised_shallow
+A1,Littoral,19/03/2021,associations at second,Iridophore,24/03/2021,5,F,,a socialised_shallow
+A1,Littoral,19/03/2021,second aggregates ,Iridophore,29/03/2021,10,F,,a socialised_shallow
+A1,Littoral,19/03/2021,iridophores at 3rd aggregation ,Iridophore,23/04/2021,35,F,,a socialised_shallow
+A1,Littoral,19/03/2021,xanth/erythrophores accumulate at third,Xanthophore,29/03/2021,10,F,,a socialised_shallow
+A1,Littoral,19/03/2021,associations at third,Iridophore,23/04/2021,35,F,,a socialised_shallow
+A1,Littoral,19/03/2021,3rd aggregates,Iridophore,, ,F,,a socialised_shallow
+A1,Littoral,19/03/2021,first aggregation resolves,Iridophore,, ,F,,a socialised_shallow
+A1,Littoral,19/03/2021,second aggregation resolves,Iridophore,03/05/2021,45,F,,a socialised_shallow
+A1,Littoral,19/03/2021,third aggregation resolves,Iridophore,, ,F,,a socialised_shallow
+A1,Littoral,19/03/2021,compact 1st spot with defined ring,Xanthophore,TBD,45,F,,a socialised_shallow
+A1,Littoral,19/03/2021,compact second spot with defined ring,Xanthophore,TBD,45,F,,a socialised_shallow
+A1,Littoral,19/03/2021,compact third spot with defined ring,Xanthophore,TBD, ,F,,a socialised_shallow
+A3,Littoral,19/03/2021,xanthophores in fin,Xanthophore,19/03/2021,0,M,,a socialised_shallow
+A3,Littoral,19/03/2021,iridophores in fin,Iridophore,19/03/2021,0,M,,a socialised_shallow
+A3,Littoral,19/03/2021,iridophores 4-5,Iridophore,19/03/2021,0,M,,a socialised_shallow
+A3,Littoral,19/03/2021,associations 3-5,Iridophore,19/03/2021,0,M,,a socialised_shallow
+A3,Littoral,19/03/2021,first aggregates,Iridophore,19/03/2021,0,M,,a socialised_shallow
+A3,Littoral,19/03/2021,iridophores at second aggregation,Iridophore,19/03/2021,0,M,,a socialised_shallow
+A3,Littoral,19/03/2021,associations at second,Iridophore,19/03/2021,0,M,,a socialised_shallow
+A3,Littoral,19/03/2021,second aggregates ,Iridophore,19/03/2021,0,M,,a socialised_shallow
+A3,Littoral,19/03/2021,iridophores at 3rd aggregation ,Iridophore,19/03/2021,0,M,,a socialised_shallow
+A3,Littoral,19/03/2021,xanth/erythrophores accumulate at third,Xanthophore,, ,M,,a socialised_shallow
+A3,Littoral,19/03/2021,associations at third,Iridophore,19/03/2021,0,M,,a socialised_shallow
+A3,Littoral,19/03/2021,3rd aggregates,Iridophore,19/03/2021,0,M,,a socialised_shallow
+A3,Littoral,19/03/2021,first aggregation resolves,Iridophore,08/04/2021,20,M,,a socialised_shallow
+A3,Littoral,19/03/2021,second aggregation resolves,Iridophore,18/04/2021,30,M,,a socialised_shallow
+A3,Littoral,19/03/2021,third aggregation resolves,Iridophore,13/04/2021,25,M,,a socialised_shallow
+A3,Littoral,19/03/2021,compact 1st spot with defined ring,Xanthophore,TBD,45,M,,a socialised_shallow
+A3,Littoral,19/03/2021,compact second spot with defined ring,Xanthophore,TBD,45,M,,a socialised_shallow
+A3,Littoral,19/03/2021,compact third spot with defined ring,Xanthophore,TBD, ,M,,a socialised_shallow
+A5,Littoral,19/03/2021,xanthophores in fin,Xanthophore,19/03/2021,0,F,,a socialised_shallow
+A5,Littoral,19/03/2021,iridophores in fin,Iridophore,19/03/2021,0,F,,a socialised_shallow
+A5,Littoral,19/03/2021,iridophores 4-5,Iridophore,19/03/2021,0,F,,a socialised_shallow
+A5,Littoral,19/03/2021,associations 3-5,Iridophore,19/03/2021,0,F,,a socialised_shallow
+A5,Littoral,19/03/2021,first aggregates,Iridophore,19/03/2021,0,F,,a socialised_shallow
+A5,Littoral,19/03/2021,iridophores at second aggregation,Iridophore,19/03/2021,0,F,,a socialised_shallow
+A5,Littoral,19/03/2021,associations at second,Iridophore,19/03/2021,0,F,,a socialised_shallow
+A5,Littoral,19/03/2021,second aggregates ,Iridophore,19/03/2021,0,F,,a socialised_shallow
+A5,Littoral,19/03/2021,iridophores at 3rd aggregation ,Iridophore,08/04/2021,20,F,,a socialised_shallow
+A5,Littoral,19/03/2021,xanth/erythrophores accumulate at third,Xanthophore,, ,F,,a socialised_shallow
+A5,Littoral,19/03/2021,associations at third,Iridophore,13/04/2021,25,F,,a socialised_shallow
+A5,Littoral,19/03/2021,3rd aggregates,Iridophore,, ,F,,a socialised_shallow
+A5,Littoral,19/03/2021,first aggregation resolves,Iridophore,03/05/2021,45,F,,a socialised_shallow
+A5,Littoral,19/03/2021,second aggregation resolves,Iridophore,03/05/2021,45,F,,a socialised_shallow
+A5,Littoral,19/03/2021,third aggregation resolves,Iridophore,, ,F,,a socialised_shallow
+A5,Littoral,19/03/2021,compact 1st spot with defined ring,Xanthophore,TBD,45,F,,a socialised_shallow
+A5,Littoral,19/03/2021,compact second spot with defined ring,Xanthophore,TBD,45,F,,a socialised_shallow
+A5,Littoral,19/03/2021,compact third spot with defined ring,Xanthophore,TBD, ,F,,a socialised_shallow
+EA1,Littoral,19/03/2021,xanthophores in fin,Xanthophore,19/03/2021,0,F,,a socialised_shallow
+EA1,Littoral,19/03/2021,iridophores in fin,Iridophore,19/03/2021,0,F,,a socialised_shallow
+EA1,Littoral,19/03/2021,iridophores 4-5,Iridophore,19/03/2021,0,F,,a socialised_shallow
+EA1,Littoral,19/03/2021,associations 3-5,Iridophore,19/03/2021,0,F,,a socialised_shallow
+EA1,Littoral,19/03/2021,first aggregates,Iridophore,19/03/2021,0,F,,a socialised_shallow
+EA1,Littoral,19/03/2021,iridophores at second aggregation,Iridophore,19/03/2021,0,F,,a socialised_shallow
+EA1,Littoral,19/03/2021,associations at second,Iridophore,19/03/2021,0,F,,a socialised_shallow
+EA1,Littoral,19/03/2021,second aggregates ,Iridophore,19/03/2021,0,F,,a socialised_shallow
+EA1,Littoral,19/03/2021,iridophores at 3rd aggregation ,Iridophore,, ,F,,a socialised_shallow
+EA1,Littoral,19/03/2021,xanth/erythrophores accumulate at third,Xanthophore,, ,F,,a socialised_shallow
+EA1,Littoral,19/03/2021,associations at third,Iridophore,, ,F,,a socialised_shallow
+EA1,Littoral,19/03/2021,3rd aggregates,Iridophore,, ,F,,a socialised_shallow
+EA1,Littoral,19/03/2021,first aggregation resolves,Iridophore,03/05/2021,45,F,,a socialised_shallow
+EA1,Littoral,19/03/2021,second aggregation resolves,Iridophore,, ,F,,a socialised_shallow
+EA1,Littoral,19/03/2021,third aggregation resolves,Iridophore,, ,F,,a socialised_shallow
+EA1,Littoral,19/03/2021,compact 1st spot with defined ring,Xanthophore,TBD,45,F,,a socialised_shallow
+EA1,Littoral,19/03/2021,compact second spot with defined ring,Xanthophore,TBD,45,F,,a socialised_shallow
+EA1,Littoral,19/03/2021,compact third spot with defined ring,Xanthophore,TBD, ,F,,a socialised_shallow
+EA3,Littoral,19/03/2021,xanthophores in fin,Xanthophore,19/03/2021,0,M,,a socialised_shallow
+EA3,Littoral,19/03/2021,iridophores in fin,Iridophore,19/03/2021,0,M,,a socialised_shallow
+EA3,Littoral,19/03/2021,iridophores 4-5,Iridophore,19/03/2021,0,M,,a socialised_shallow
+EA3,Littoral,19/03/2021,associations 3-5,Iridophore,19/03/2021,0,M,,a socialised_shallow
+EA3,Littoral,19/03/2021,first aggregates,Iridophore,19/03/2021,0,M,,a socialised_shallow
+EA3,Littoral,19/03/2021,iridophores at second aggregation,Iridophore,24/03/2021,5,M,,a socialised_shallow
+EA3,Littoral,19/03/2021,associations at second,Iridophore,03/04/2021,15,M,,a socialised_shallow
+EA3,Littoral,19/03/2021,second aggregates ,Iridophore,23/04/2021,35,M,,a socialised_shallow
+EA3,Littoral,19/03/2021,iridophores at 3rd aggregation ,Iridophore,23/04/2021,35,M,,a socialised_shallow
+EA3,Littoral,19/03/2021,xanth/erythrophores accumulate at third,Xanthophore,, ,M,,a socialised_shallow
+EA3,Littoral,19/03/2021,associations at third,Iridophore,23/04/2021,35,M,,a socialised_shallow
+EA3,Littoral,19/03/2021,3rd aggregates,Iridophore,, ,M,,a socialised_shallow
+EA3,Littoral,19/03/2021,first aggregation resolves,Iridophore,, ,M,,a socialised_shallow
+EA3,Littoral,19/03/2021,second aggregation resolves,Iridophore,, ,M,,a socialised_shallow
+EA3,Littoral,19/03/2021,third aggregation resolves,Iridophore,, ,M,,a socialised_shallow
+EA3,Littoral,19/03/2021,compact 1st spot with defined ring,Xanthophore,TBD,45,M,,a socialised_shallow
+EA3,Littoral,19/03/2021,compact second spot with defined ring,Xanthophore,TBD,45,M,,a socialised_shallow
+EA3,Littoral,19/03/2021,compact third spot with defined ring,Xanthophore,TBD, ,M,,a socialised_shallow
+EA5,Littoral,19/03/2021,xanthophores in fin,Xanthophore,19/03/2021,0,F,,a socialised_shallow
+EA5,Littoral,19/03/2021,iridophores in fin,Iridophore,19/03/2021,0,F,,a socialised_shallow
+EA5,Littoral,19/03/2021,iridophores 4-5,Iridophore,19/03/2021,0,F,,a socialised_shallow
+EA5,Littoral,19/03/2021,associations 3-5,Iridophore,24/03/2021,5,F,,a socialised_shallow
+EA5,Littoral,19/03/2021,first aggregates,Iridophore,29/03/2021,10,F,,a socialised_shallow
+EA5,Littoral,19/03/2021,iridophores at second aggregation,Iridophore,19/03/2021,0,F,,a socialised_shallow
+EA5,Littoral,19/03/2021,associations at second,Iridophore,24/03/2021,5,F,,a socialised_shallow
+EA5,Littoral,19/03/2021,second aggregates ,Iridophore,13/04/2021,25,F,,a socialised_shallow
+EA5,Littoral,19/03/2021,iridophores at 3rd aggregation ,Iridophore,08/04/2021,20,F,,a socialised_shallow
+EA5,Littoral,19/03/2021,xanth/erythrophores accumulate at third,Xanthophore,19/03/2021,0,F,,a socialised_shallow
+EA5,Littoral,19/03/2021,associations at third,Iridophore,18/04/2021,30,F,,a socialised_shallow
+EA5,Littoral,19/03/2021,3rd aggregates,Iridophore,, ,F,,a socialised_shallow
+EA5,Littoral,19/03/2021,first aggregation resolves,Iridophore,, ,F,,a socialised_shallow
+EA5,Littoral,19/03/2021,second aggregation resolves,Iridophore,03/05/2021,45,F,,a socialised_shallow
+EA5,Littoral,19/03/2021,third aggregation resolves,Iridophore,, ,F,,a socialised_shallow
+EA5,Littoral,19/03/2021,compact 1st spot with defined ring,Xanthophore,TBD,45,F,,a socialised_shallow
+EA5,Littoral,19/03/2021,compact second spot with defined ring,Xanthophore,TBD,45,F,,a socialised_shallow
+EA5,Littoral,19/03/2021,compact third spot with defined ring,Xanthophore,TBD, ,F,,a socialised_shallow
+EA2,Littoral,22/03/2021,xanthophores in fin,Xanthophore,22/03/2021,0,F,,a socialised_shallow
+EA2,Littoral,22/03/2021,iridophores in fin,Iridophore,22/03/2021,0,F,,a socialised_shallow
+EA2,Littoral,22/03/2021,iridophores 4-5,Iridophore,22/03/2021,0,F,,a socialised_shallow
+EA2,Littoral,22/03/2021,associations 3-5,Iridophore,01/04/2021,10,F,,a socialised_shallow
+EA2,Littoral,22/03/2021,first aggregates,Iridophore,06/04/2021,15,F,,a socialised_shallow
+EA2,Littoral,22/03/2021,iridophores at second aggregation,Iridophore,29/03/2021,7,F,,a socialised_shallow
+EA2,Littoral,22/03/2021,associations at second,Iridophore,06/05/2021,45,F,,a socialised_shallow
+EA2,Littoral,22/03/2021,second aggregates ,Iridophore,, ,F,,a socialised_shallow
+EA2,Littoral,22/03/2021,iridophores at 3rd aggregation ,Iridophore,26/04/2021,35,F,,a socialised_shallow
+EA2,Littoral,22/03/2021,xanth/erythrophores accumulate at third,Xanthophore,, ,F,,a socialised_shallow
+EA2,Littoral,22/03/2021,associations at third,Iridophore,01/05/2021,40,F,,a socialised_shallow
+EA2,Littoral,22/03/2021,3rd aggregates,Iridophore,, ,F,,a socialised_shallow
+EA2,Littoral,22/03/2021,first aggregation resolves,Iridophore,, ,F,,a socialised_shallow
+EA2,Littoral,22/03/2021,second aggregation resolves,Iridophore,, ,F,,a socialised_shallow
+EA2,Littoral,22/03/2021,third aggregation resolves,Iridophore,, ,F,,a socialised_shallow
+EA2,Littoral,22/03/2021,compact 1st spot with defined ring,Xanthophore,, ,F,,a socialised_shallow
+EA2,Littoral,22/03/2021,compact second spot with defined ring,Xanthophore,, ,F,,a socialised_shallow
+EA2,Littoral,22/03/2021,compact third spot with defined ring,Xanthophore,, ,F,,a socialised_shallow
+EA4,Littoral,22/03/2021,xanthophores in fin,Xanthophore,22/03/2021,0,M,,a socialised_shallow
+EA4,Littoral,22/03/2021,iridophores in fin,Iridophore,22/03/2021,0,M,,a socialised_shallow
+EA4,Littoral,22/03/2021,iridophores 4-5,Iridophore,22/03/2021,0,M,,a socialised_shallow
+EA4,Littoral,22/03/2021,associations 3-5,Iridophore,22/03/2021,0,M,,a socialised_shallow
+EA4,Littoral,22/03/2021,first aggregates,Iridophore,27/03/2021,5,M,,a socialised_shallow
+EA4,Littoral,22/03/2021,iridophores at second aggregation,Iridophore,22/03/2021,0,M,,a socialised_shallow
+EA4,Littoral,22/03/2021,associations at second,Iridophore,22/03/2021,0,M,,a socialised_shallow
+EA4,Littoral,22/03/2021,second aggregates ,Iridophore,27/03/2021,5,M,,a socialised_shallow
+EA4,Littoral,22/03/2021,iridophores at 3rd aggregation ,Iridophore,01/04/2021,10,M,,a socialised_shallow
+EA4,Littoral,22/03/2021,xanth/erythrophores accumulate at third,Xanthophore,01/04/2021,10,M,,a socialised_shallow
+EA4,Littoral,22/03/2021,associations at third,Iridophore,06/04/2021,15,M,,a socialised_shallow
+EA4,Littoral,22/03/2021,3rd aggregates,Iridophore,06/04/2021,15,M,,a socialised_shallow
+EA4,Littoral,22/03/2021,first aggregation resolves,Iridophore,, ,M,,a socialised_shallow
+EA4,Littoral,22/03/2021,second aggregation resolves,Iridophore,, ,M,,a socialised_shallow
+EA4,Littoral,22/03/2021,third aggregation resolves,Iridophore,, ,M,,a socialised_shallow
+EA4,Littoral,22/03/2021,compact 1st spot with defined ring,Xanthophore,26/04/2021,35,M,,a socialised_shallow
+EA4,Littoral,22/03/2021,compact second spot with defined ring,Xanthophore,26/04/2021,35,M,,a socialised_shallow
+EA4,Littoral,22/03/2021,compact third spot with defined ring,Xanthophore,01/05/2021,40,M,,a socialised_shallow
+EA6,Littoral,22/03/2021,xanthophores in fin,Xanthophore,22/03/2021,0,M,,a socialised_shallow
+EA6,Littoral,22/03/2021,iridophores in fin,Iridophore,22/03/2021,0,M,,a socialised_shallow
+EA6,Littoral,22/03/2021,iridophores 4-5,Iridophore,22/03/2021,0,M,,a socialised_shallow
+EA6,Littoral,22/03/2021,associations 3-5,Iridophore,22/03/2021,0,M,,a socialised_shallow
+EA6,Littoral,22/03/2021,first aggregates,Iridophore,22/03/2021,0,M,,a socialised_shallow
+EA6,Littoral,22/03/2021,iridophores at second aggregation,Iridophore,22/03/2021,0,M,,a socialised_shallow
+EA6,Littoral,22/03/2021,associations at second,Iridophore,22/03/2021,0,M,,a socialised_shallow
+EA6,Littoral,22/03/2021,second aggregates ,Iridophore,27/03/2021,5,M,,a socialised_shallow
+EA6,Littoral,22/03/2021,iridophores at 3rd aggregation ,Iridophore,22/03/2021,0,M,,a socialised_shallow
+EA6,Littoral,22/03/2021,xanth/erythrophores accumulate at third,Xanthophore,, ,M,,a socialised_shallow
+EA6,Littoral,22/03/2021,associations at third,Iridophore,27/03/2021,5,M,,a socialised_shallow
+EA6,Littoral,22/03/2021,3rd aggregates,Iridophore,27/03/2021,5,M,,a socialised_shallow
+EA6,Littoral,22/03/2021,first aggregation resolves,Iridophore,21/04/2021,30,M,,a socialised_shallow
+EA6,Littoral,22/03/2021,second aggregation resolves,Iridophore,21/04/2021,30,M,,a socialised_shallow
+EA6,Littoral,22/03/2021,third aggregation resolves,Iridophore,, ,M,,a socialised_shallow
+EA6,Littoral,22/03/2021,compact 1st spot with defined ring,Xanthophore,, ,M,,a socialised_shallow
+EA6,Littoral,22/03/2021,compact second spot with defined ring,Xanthophore,, ,M,,a socialised_shallow
+EA6,Littoral,22/03/2021,compact third spot with defined ring,Xanthophore,21/04/2021,30,M,,a socialised_shallow
+A2,Littoral,22/03/2021,xanthophores in fin,Xanthophore,22/03/2021,0,F,,a socialised_shallow
+A2,Littoral,22/03/2021,iridophores in fin,Iridophore,22/03/2021,0,F,,a socialised_shallow
+A2,Littoral,22/03/2021,iridophores 4-5,Iridophore,22/03/2021,0,F,,a socialised_shallow
+A2,Littoral,22/03/2021,associations 3-5,Iridophore,22/03/2021,0,F,,a socialised_shallow
+A2,Littoral,22/03/2021,first aggregates,Iridophore,22/03/2021,0,F,,a socialised_shallow
+A2,Littoral,22/03/2021,iridophores at second aggregation,Iridophore,22/03/2021,0,F,,a socialised_shallow
+A2,Littoral,22/03/2021,associations at second,Iridophore,27/03/2021,5,F,,a socialised_shallow
+A2,Littoral,22/03/2021,second aggregates ,Iridophore,11/04/2021,20,F,,a socialised_shallow
+A2,Littoral,22/03/2021,iridophores at 3rd aggregation ,Iridophore,01/04/2021,10,F,,a socialised_shallow
+A2,Littoral,22/03/2021,xanth/erythrophores accumulate at third,Xanthophore,, ,F,,a socialised_shallow
+A2,Littoral,22/03/2021,associations at third,Iridophore,06/04/2021,15,F,,a socialised_shallow
+A2,Littoral,22/03/2021,3rd aggregates,Iridophore,11/04/2021,20,F,,a socialised_shallow
+A2,Littoral,22/03/2021,first aggregation resolves,Iridophore,, ,F,,a socialised_shallow
+A2,Littoral,22/03/2021,second aggregation resolves,Iridophore,, ,F,,a socialised_shallow
+A2,Littoral,22/03/2021,third aggregation resolves,Iridophore,, ,F,,a socialised_shallow
+A2,Littoral,22/03/2021,compact 1st spot with defined ring,Xanthophore,, ,F,,a socialised_shallow
+A2,Littoral,22/03/2021,compact second spot with defined ring,Xanthophore,, ,F,,a socialised_shallow
+A2,Littoral,22/03/2021,compact third spot with defined ring,Xanthophore,, ,F,,a socialised_shallow
+A4,Littoral,22/03/2021,xanthophores in fin,Xanthophore,22/03/2021,0,M,,a socialised_shallow
+A4,Littoral,22/03/2021,iridophores in fin,Iridophore,22/03/2021,0,M,,a socialised_shallow
+A4,Littoral,22/03/2021,iridophores 4-5,Iridophore,22/03/2021,0,M,,a socialised_shallow
+A4,Littoral,22/03/2021,associations 3-5,Iridophore,22/03/2021,0,M,,a socialised_shallow
+A4,Littoral,22/03/2021,first aggregates,Iridophore,22/03/2021,0,M,,a socialised_shallow
+A4,Littoral,22/03/2021,iridophores at second aggregation,Iridophore,22/03/2021,0,M,,a socialised_shallow
+A4,Littoral,22/03/2021,associations at second,Iridophore,22/03/2021,0,M,,a socialised_shallow
+A4,Littoral,22/03/2021,second aggregates ,Iridophore,22/03/2021,0,M,,a socialised_shallow
+A4,Littoral,22/03/2021,iridophores at 3rd aggregation ,Iridophore,22/03/2021,0,M,,a socialised_shallow
+A4,Littoral,22/03/2021,xanth/erythrophores accumulate at third,Xanthophore,22/03/2021,0,M,,a socialised_shallow
+A4,Littoral,22/03/2021,associations at third,Iridophore,27/03/2021,5,M,,a socialised_shallow
+A4,Littoral,22/03/2021,3rd aggregates,Iridophore,27/03/2021,5,M,,a socialised_shallow
+A4,Littoral,22/03/2021,first aggregation resolves,Iridophore,, ,M,,a socialised_shallow
+A4,Littoral,22/03/2021,second aggregation resolves,Iridophore,11/04/2021,20,M,,a socialised_shallow
+A4,Littoral,22/03/2021,third aggregation resolves,Iridophore,21/04/2021,30,M,,a socialised_shallow
+A4,Littoral,22/03/2021,compact 1st spot with defined ring,Xanthophore,21/04/2021,30,M,,a socialised_shallow
+A4,Littoral,22/03/2021,compact second spot with defined ring,Xanthophore,26/04/2021,35,M,,a socialised_shallow
+A4,Littoral,22/03/2021,compact third spot with defined ring,Xanthophore,01/05/2021,40,M,,a socialised_shallow
+A6,Littoral,22/03/2021,xanthophores in fin,Xanthophore,22/03/2021,0,M,,a socialised_shallow
+A6,Littoral,22/03/2021,iridophores in fin,Iridophore,22/03/2021,0,M,,a socialised_shallow
+A6,Littoral,22/03/2021,iridophores 4-5,Iridophore,22/03/2021,0,M,,a socialised_shallow
+A6,Littoral,22/03/2021,associations 3-5,Iridophore,22/03/2021,0,M,,a socialised_shallow
+A6,Littoral,22/03/2021,first aggregates,Iridophore,22/03/2021,0,M,,a socialised_shallow
+A6,Littoral,22/03/2021,iridophores at second aggregation,Iridophore,22/03/2021,0,M,,a socialised_shallow
+A6,Littoral,22/03/2021,associations at second,Iridophore,22/03/2021,0,M,,a socialised_shallow
+A6,Littoral,22/03/2021,second aggregates ,Iridophore,22/03/2021,0,M,,a socialised_shallow
+A6,Littoral,22/03/2021,iridophores at 3rd aggregation ,Iridophore,, ,M,,a socialised_shallow
+A6,Littoral,22/03/2021,xanth/erythrophores accumulate at third,Xanthophore,, ,M,,a socialised_shallow
+A6,Littoral,22/03/2021,associations at third,Iridophore,01/05/2021,40,M,,a socialised_shallow
+A6,Littoral,22/03/2021,3rd aggregates,Iridophore,, ,M,,a socialised_shallow
+A6,Littoral,22/03/2021,first aggregation resolves,Iridophore,01/04/2021,10,M,,a socialised_shallow
+A6,Littoral,22/03/2021,second aggregation resolves,Iridophore,01/04/2021,10,M,,a socialised_shallow
+A6,Littoral,22/03/2021,third aggregation resolves,Iridophore,, ,M,,a socialised_shallow
+A6,Littoral,22/03/2021,compact 1st spot with defined ring,Xanthophore,06/05/2021,45,M,,a socialised_shallow
+A6,Littoral,22/03/2021,compact second spot with defined ring,Xanthophore,06/05/2021,45,M,,a socialised_shallow
+A6,Littoral,22/03/2021,compact third spot with defined ring,Xanthophore,, ,M,,a socialised_shallow
+FSL 1,Littoral,13/08/2021,xanthophores in fin,Xanthophore,13/08/2021,0,M,,c yolk_shallow
+FSL 1,Littoral,13/08/2021,iridophores in fin,Iridophores,16/08/2021,3,M,,c yolk_shallow
+FSL 1,Littoral,13/08/2021,iridophores 4-5,Iridophores,19/08/2021,6,M,,c yolk_shallow
+FSL 1,Littoral,13/08/2021,associations 3-5,Iridophores,27/08/2021,14,M,,c yolk_shallow
+FSL 1,Littoral,13/08/2021,iridophores aggregate 3-5,Iridophores,11/09/2021,29,M,,c yolk_shallow
+FSL 1,Littoral,13/08/2021,iridophores 5-6,Iridophores,,,M,,c yolk_shallow
+FSL 1,Littoral,13/08/2021,dot xanthophores beyond 4,Xanthophore,,,M,,c yolk_shallow
+FSL 1,Littoral,13/08/2021,iridophores at 7,Iridophores,22/08/2021,9,M,,c yolk_shallow
+FSL 1,Littoral,13/08/2021,iridophores at next (temp) aggregation,Iridophores,11/09/2021,29,M,,c yolk_shallow
+FSL 1,Littoral,13/08/2021,iridophores at site of end second aggregation ,Iridophores,11/09/2021,29,M,,c yolk_shallow
+FSL 1,Littoral,13/08/2021,associations end second aggregation,Iridophores,01/10/2021,49,M,,c yolk_shallow
+FSL 1,Littoral,13/08/2021,iridophores aggregate at end second aggregation ,Iridophores,01/10/2021,49,M,,c yolk_shallow
+FSL 1,Littoral,13/08/2021,dot xanthophores accumulate at site of end second aggregation,Xanthophore,11/09/2021,29,M,,c yolk_shallow
+FSL 2,Littoral,13/08/2021,xanthophores in fin,Xanthophore,13/08/2021,0,M,,c yolk_shallow
+FSL 2,Littoral,13/08/2021,iridophores in fin,Iridophores,16/08/2021,3,M,,c yolk_shallow
+FSL 2,Littoral,13/08/2021,iridophores 4-5,Iridophores,19/08/2021,6,M,,c yolk_shallow
+FSL 2,Littoral,13/08/2021,associations 3-5,Iridophores,22/08/2021,9,M,,c yolk_shallow
+FSL 2,Littoral,13/08/2021,iridophores aggregate 3-5,Iridophores,27/08/2021,14,M,,c yolk_shallow
+FSL 2,Littoral,13/08/2021,iridophores 5-6,Iridophores,,,M,,c yolk_shallow
+FSL 2,Littoral,13/08/2021,dot xanthophores beyond 4,Xanthophore,,,M,,c yolk_shallow
+FSL 2,Littoral,13/08/2021,iridophores at 7,Iridophores,22/08/2021,9,M,,c yolk_shallow
+FSL 2,Littoral,13/08/2021,iridophores at next (temp) aggregation,Iridophores,01/09/2021,19,M,,c yolk_shallow
+FSL 2,Littoral,13/08/2021,iridophores at site of end second aggregation ,Iridophores,01/09/2021,19,M,,c yolk_shallow
+FSL 2,Littoral,13/08/2021,associations end second aggregation,Iridophores,11/09/2021,29,M,,c yolk_shallow
+FSL 2,Littoral,13/08/2021,iridophores aggregate at end second aggregation ,Iridophores,21/09/2021,39,M,,c yolk_shallow
+FSL 2,Littoral,13/08/2021,dot xanthophores accumulate at site of end second aggregation,Xanthophore,,,M,,c yolk_shallow
+FSL 3,Littoral,13/08/2021,xanthophores in fin,Xanthophore,13/08/2021,0,M,,c yolk_shallow
+FSL 3,Littoral,13/08/2021,iridophores in fin,Iridophores,16/08/2021,3,M,,c yolk_shallow
+FSL 3,Littoral,13/08/2021,iridophores 4-5,Iridophores,19/08/2021,6,M,,c yolk_shallow
+FSL 3,Littoral,13/08/2021,associations 3-5,Iridophores,22/08/2021,9,M,,c yolk_shallow
+FSL 3,Littoral,13/08/2021,iridophores aggregate 3-5,Iridophores,27/08/2021,14,M,,c yolk_shallow
+FSL 3,Littoral,13/08/2021,iridophores 5-6,Iridophores,,,M,,c yolk_shallow
+FSL 3,Littoral,13/08/2021,dot xanthophores beyond 4,Xanthophore,,,M,,c yolk_shallow
+FSL 3,Littoral,13/08/2021,iridophores at 7,Iridophores,,,M,,c yolk_shallow
+FSL 3,Littoral,13/08/2021,iridophores at next (temp) aggregation,Iridophores,01/09/2021,19,M,,c yolk_shallow
+FSL 3,Littoral,13/08/2021,iridophores at site of end second aggregation ,Iridophores,01/09/2021,19,M,,c yolk_shallow
+FSL 3,Littoral,13/08/2021,associations end second aggregation,Iridophores,11/09/2021,29,M,,c yolk_shallow
+FSL 3,Littoral,13/08/2021,iridophores aggregate at end second aggregation ,Iridophores,11/09/2021,29,M,,c yolk_shallow
+FSL 3,Littoral,13/08/2021,dot xanthophores accumulate at site of end second aggregation,Xanthophore,11/09/2021,29,M,,c yolk_shallow
+FSL 4,Littoral,13/08/2021,xanthophores in fin,Xanthophore,13/08/2021,0,F,,c yolk_shallow
+FSL 4,Littoral,13/08/2021,iridophores in fin,Iridophores,13/08/2021,0,F,,c yolk_shallow
+FSL 4,Littoral,13/08/2021,iridophores 4-5,Iridophores,19/08/2021,6,F,,c yolk_shallow
+FSL 4,Littoral,13/08/2021,associations 3-5,Iridophores,06/09/2021,24,F,,c yolk_shallow
+FSL 4,Littoral,13/08/2021,iridophores aggregate 3-5,Iridophores,06/09/2021,24,F,,c yolk_shallow
+FSL 4,Littoral,13/08/2021,iridophores 5-6,Iridophores,,,F,,c yolk_shallow
+FSL 4,Littoral,13/08/2021,dot xanthophores beyond 4,Xanthophore,,,F,,c yolk_shallow
+FSL 4,Littoral,13/08/2021,iridophores at 7,Iridophores,06/09/2021,24,F,,c yolk_shallow
+FSL 4,Littoral,13/08/2021,iridophores at next (temp) aggregation,Iridophores,22/08/2021,9,F,,c yolk_shallow
+FSL 4,Littoral,13/08/2021,iridophores at site of end second aggregation ,Iridophores,17/09/2021,35,F,,c yolk_shallow
+FSL 4,Littoral,13/08/2021,associations end second aggregation,Iridophores,21/09/2021,39,F,,c yolk_shallow
+FSL 4,Littoral,13/08/2021,iridophores aggregate at end second aggregation ,Iridophores,21/09/2021,39,F,,c yolk_shallow
+FSL 4,Littoral,13/08/2021,dot xanthophores accumulate at site of end second aggregation,Xanthophore,17/09/2021,35,F,,c yolk_shallow
+FSL 5,Littoral,13/08/2021,xanthophores in fin,Xanthophore,13/08/2021,0,M,,c yolk_shallow
+FSL 5,Littoral,13/08/2021,iridophores in fin,Iridophores,13/08/2021,0,M,,c yolk_shallow
+FSL 5,Littoral,13/08/2021,iridophores 4-5,Iridophores,16/08/2021,3,M,,c yolk_shallow
+FSL 5,Littoral,13/08/2021,associations 3-5,Iridophores,01/09/2021,19,M,,c yolk_shallow
+FSL 5,Littoral,13/08/2021,iridophores aggregate 3-5,Iridophores,06/09/2021,24,M,,c yolk_shallow
+FSL 5,Littoral,13/08/2021,iridophores 5-6,Iridophores,,,M,,c yolk_shallow
+FSL 5,Littoral,13/08/2021,dot xanthophores beyond 4,Xanthophore,,,M,,c yolk_shallow
+FSL 5,Littoral,13/08/2021,iridophores at 7,Iridophores,27/08/2021,14,M,,c yolk_shallow
+FSL 5,Littoral,13/08/2021,iridophores at next (temp) aggregation,Iridophores,01/09/2021,19,M,,c yolk_shallow
+FSL 5,Littoral,13/08/2021,iridophores at site of end second aggregation ,Iridophores,06/09/2021,24,M,,c yolk_shallow
+FSL 5,Littoral,13/08/2021,associations end second aggregation,Iridophores,17/09/2021,35,M,,c yolk_shallow
+FSL 5,Littoral,13/08/2021,iridophores aggregate at end second aggregation ,Iridophores,17/09/2021,35,M,,c yolk_shallow
+FSL 5,Littoral,13/08/2021,dot xanthophores accumulate at site of end second aggregation,Xanthophore,11/09/2021,29,M,,c yolk_shallow
+FSL 6,Littoral,13/08/2021,xanthophores in fin,Xanthophore,13/08/2021,0,F,,c yolk_shallow
+FSL 6,Littoral,13/08/2021,iridophores in fin,Iridophores,16/08/2021,3,F,,c yolk_shallow
+FSL 6,Littoral,13/08/2021,iridophores 4-5,Iridophores,19/08/2021,6,F,,c yolk_shallow
+FSL 6,Littoral,13/08/2021,associations 3-5,Iridophores,01/09/2021,19,F,,c yolk_shallow
+FSL 6,Littoral,13/08/2021,iridophores aggregate 3-5,Iridophores,11/09/2021,29,F,,c yolk_shallow
+FSL 6,Littoral,13/08/2021,iridophores 5-6,Iridophores,,,F,,c yolk_shallow
+FSL 6,Littoral,13/08/2021,dot xanthophores beyond 4,Xanthophore,,,F,,c yolk_shallow
+FSL 6,Littoral,13/08/2021,iridophores at 7,Iridophores,27/08/2021,14,F,,c yolk_shallow
+FSL 6,Littoral,13/08/2021,iridophores at next (temp) aggregation,Iridophores,11/09/2021,29,F,,c yolk_shallow
+FSL 6,Littoral,13/08/2021,iridophores at site of end second aggregation ,Iridophores,17/09/2021,35,F,,c yolk_shallow
+FSL 6,Littoral,13/08/2021,associations end second aggregation,Iridophores,21/09/2021,39,F,,c yolk_shallow
+FSL 6,Littoral,13/08/2021,iridophores aggregate at end second aggregation ,Iridophores,26/09/2021,44,F,,c yolk_shallow
+FSL 6,Littoral,13/08/2021,dot xanthophores accumulate at site of end second aggregation,Xanthophore,11/09/2021,29,F,,c yolk_shallow
+FSL 7,Littoral,13/08/2021,xanthophores in fin,Xanthophore,13/08/2021,0,M,,c yolk_shallow
+FSL 7,Littoral,13/08/2021,iridophores in fin,Iridophores,16/08/2021,3,M,,c yolk_shallow
+FSL 7,Littoral,13/08/2021,iridophores 4-5,Iridophores,16/08/2021,3,M,,c yolk_shallow
+FSL 7,Littoral,13/08/2021,associations 3-5,Iridophores,06/09/2021,24,M,,c yolk_shallow
+FSL 7,Littoral,13/08/2021,iridophores aggregate 3-5,Iridophores,06/09/2021,24,M,,c yolk_shallow
+FSL 7,Littoral,13/08/2021,iridophores 5-6,Iridophores,,,M,,c yolk_shallow
+FSL 7,Littoral,13/08/2021,dot xanthophores beyond 4,Xanthophore,,,M,,c yolk_shallow
+FSL 7,Littoral,13/08/2021,iridophores at 7,Iridophores,,,M,,c yolk_shallow
+FSL 7,Littoral,13/08/2021,iridophores at next (temp) aggregation,Iridophores,27/08/2021,14,M,,c yolk_shallow
+FSL 7,Littoral,13/08/2021,iridophores at site of end second aggregation ,Iridophores,01/09/2021,19,M,,c yolk_shallow
+FSL 7,Littoral,13/08/2021,associations end second aggregation,Iridophores,11/09/2021,29,M,,c yolk_shallow
+FSL 7,Littoral,13/08/2021,iridophores aggregate at end second aggregation ,Iridophores,11/09/2021,29,M,,c yolk_shallow
+FSL 7,Littoral,13/08/2021,dot xanthophores accumulate at site of end second aggregation,Xanthophore,,,M,,c yolk_shallow
+FSL 8,Littoral,13/08/2021,xanthophores in fin,Xanthophore,13/08/2021,0,F,,c yolk_shallow
+FSL 8,Littoral,13/08/2021,iridophores in fin,Iridophores,16/08/2021,3,F,,c yolk_shallow
+FSL 8,Littoral,13/08/2021,iridophores 4-5,Iridophores,22/08/2021,9,F,,c yolk_shallow
+FSL 8,Littoral,13/08/2021,associations 3-5,Iridophores,06/09/2021,24,F,,c yolk_shallow
+FSL 8,Littoral,13/08/2021,iridophores aggregate 3-5,Iridophores,26/09/2021,44,F,,c yolk_shallow
+FSL 8,Littoral,13/08/2021,iridophores 5-6,Iridophores,,,F,,c yolk_shallow
+FSL 8,Littoral,13/08/2021,dot xanthophores beyond 4,Xanthophore,,,F,,c yolk_shallow
+FSL 8,Littoral,13/08/2021,iridophores at 7,Iridophores,26/09/2021,44,F,,c yolk_shallow
+FSL 8,Littoral,13/08/2021,iridophores at next (temp) aggregation,Iridophores,,,F,,c yolk_shallow
+FSL 8,Littoral,13/08/2021,iridophores at site of end second aggregation ,Iridophores,,,F,,c yolk_shallow
+FSL 8,Littoral,13/08/2021,associations end second aggregation,Iridophores,,,F,,c yolk_shallow
+FSL 8,Littoral,13/08/2021,iridophores aggregate at end second aggregation ,Iridophores,,,F,,c yolk_shallow
+FSL 8,Littoral,13/08/2021,dot xanthophores accumulate at site of end second aggregation,Xanthophore,,,F,,c yolk_shallow
+FSB 1,Benthic,20/10/2021,xanthophores in fin,Xanthophore,20/10/2021,0,F,,d yolk_deep
+FSB 1,Benthic,20/10/2021,iridophores in fin,Iridophores,20/10/2021,0,F,,d yolk_deep
+FSB 1,Benthic,20/10/2021,iridophores 4-5,Iridophores,22/10/2021,2,F,,d yolk_deep
+FSB 1,Benthic,20/10/2021,associations 3-5,Iridophores,28/10/2021,8,F,,d yolk_deep
+FSB 1,Benthic,20/10/2021,iridophores aggregate 3-5,Iridophores,01/11/2021,12,F,,d yolk_deep
+FSB 1,Benthic,20/10/2021,iridophores 5-6,Iridophores,,,F,,d yolk_deep
+FSB 1,Benthic,20/10/2021,dot xanthophores beyond 4,Xanthophore,,,F,,d yolk_deep
+FSB 1,Benthic,20/10/2021,iridophores at 7,Iridophores,28/10/2021,8,F,,d yolk_deep
+FSB 1,Benthic,20/10/2021,iridophores at next (temp) aggregation,Iridophores,25/10/2021,5,F,,d yolk_deep
+FSB 1,Benthic,20/10/2021,iridophores at site of end second aggregation ,Iridophores,24/11/2021,35,F,,d yolk_deep
+FSB 1,Benthic,20/10/2021,associations end second aggregation,Iridophores,-,,F,,d yolk_deep
+FSB 1,Benthic,20/10/2021,iridophores aggregate at end second aggregation ,Iridophores,-,,F,,d yolk_deep
+FSB 1,Benthic,20/10/2021,dot xanthophores accumulate at site of end second aggregation,Xanthophore,,,F,,d yolk_deep
+FSB 2,Benthic,20/10/2021,xanthophores in fin,Xanthophore,20/10/2021,0,M,,d yolk_deep
+FSB 2,Benthic,20/10/2021,iridophores in fin,Iridophores,20/10/2021,0,M,,d yolk_deep
+FSB 2,Benthic,20/10/2021,iridophores 4-5,Iridophores,22/10/2021,2,M,,d yolk_deep
+FSB 2,Benthic,20/10/2021,associations 3-5,Iridophores,28/10/2021,8,M,,d yolk_deep
+FSB 2,Benthic,20/10/2021,iridophores aggregate 3-5,Iridophores,28/10/2021,8,M,,d yolk_deep
+FSB 2,Benthic,20/10/2021,iridophores 5-6,Iridophores,,,M,,d yolk_deep
+FSB 2,Benthic,20/10/2021,dot xanthophores beyond 4,Xanthophore,,,M,,d yolk_deep
+FSB 2,Benthic,20/10/2021,iridophores at 7,Iridophores,28/10/2021,8,M,,d yolk_deep
+FSB 2,Benthic,20/10/2021,associations end second aggregation,Iridophores,,,M,,d yolk_deep
+FSB 2,Benthic,20/10/2021,iridophores at next (temp) aggregation,Iridophores,,,M,,d yolk_deep
+FSB 2,Benthic,20/10/2021,iridophores aggregate at end second aggregation ,Iridophores,,,M,,d yolk_deep
+FSB 2,Benthic,20/10/2021,dot xanthophores accumulate at site of end second aggregation,Xanthophore,,,M,,d yolk_deep
+FSB 3,Benthic,20/10/2021,xanthophores in fin,Xanthophore,20/10/2021,0,F,,d yolk_deep
+FSB 3,Benthic,20/10/2021,iridophores in fin,Iridophores,20/10/2021,0,F,,d yolk_deep
+FSB 3,Benthic,20/10/2021,iridophores 4-5,Iridophores,22/10/2021,2,F,,d yolk_deep
+FSB 3,Benthic,20/10/2021,associations 3-5,Iridophores,28/10/2021,8,F,,d yolk_deep
+FSB 3,Benthic,20/10/2021,iridophores aggregate 3-5,Iridophores,28/10/2021,8,F,,d yolk_deep
+FSB 3,Benthic,20/10/2021,iridophores 5-6,Iridophores,,,F,,d yolk_deep
+FSB 3,Benthic,20/10/2021,dot xanthophores beyond 4,Xanthophore,,,F,,d yolk_deep
+FSB 3,Benthic,20/10/2021,iridophores at 7,Iridophores,28/10/2021,8,F,,d yolk_deep
+FSB 3,Benthic,20/10/2021,iridophores at next (temp) aggregation,Iridophores,28/10/2021,8,F,,d yolk_deep
+FSB 3,Benthic,20/10/2021,associations end second aggregation,Iridophores,,,F,,d yolk_deep
+FSB 3,Benthic,20/10/2021,iridophores at site of end second aggregation ,Iridophores,,,F,,d yolk_deep
+FSB 3,Benthic,20/10/2021,iridophores aggregate at end second aggregation ,Iridophores,,,F,,d yolk_deep
+FSB 3,Benthic,20/10/2021,dot xanthophores accumulate at site of end second aggregation,Xanthophore,,,F,,d yolk_deep
+FSB 4,Benthic,20/10/2021,xanthophores in fin,Xanthophore,20/10/2021,0,F,,d yolk_deep
+FSB 4,Benthic,20/10/2021,iridophores in fin,Iridophores,20/10/2021,0,F,,d yolk_deep
+FSB 4,Benthic,20/10/2021,iridophores 4-5,Iridophores,22/10/2021,2,F,,d yolk_deep
+FSB 4,Benthic,20/10/2021,associations 3-5,Iridophores,28/10/2021,8,F,,d yolk_deep
+FSB 4,Benthic,20/10/2021,iridophores aggregate 3-5,Iridophores,01/11/2021,12,F,,d yolk_deep
+FSB 4,Benthic,20/10/2021,iridophores 5-6,Iridophores,,,F,,d yolk_deep
+FSB 4,Benthic,20/10/2021,dot xanthophores beyond 4,Xanthophore,,,F,,d yolk_deep
+FSB 4,Benthic,20/10/2021,iridophores at 7,Iridophores,25/10/2021,5,F,,d yolk_deep
+FSB 4,Benthic,20/10/2021,iridophores at next (temp) aggregation,Iridophores,25/10/2021,5,F,,d yolk_deep
+FSB 4,Benthic,20/10/2021,iridophores at site of end second aggregation ,Iridophores,18/11/2021,29,F,,d yolk_deep
+FSB 4,Benthic,20/10/2021,associations end second aggregation,Iridophores,29/11/2021,40,F,,d yolk_deep
+FSB 4,Benthic,20/10/2021,iridophores aggregate at end second aggregation ,Iridophores,,,F,,d yolk_deep
+FSB 4,Benthic,20/10/2021,dot xanthophores accumulate at site of end second aggregation,Xanthophore,,,F,,d yolk_deep
+FSB 5,Benthic,20/10/2021,xanthophores in fin,Xanthophore,20/10/2021,0,M,,d yolk_deep
+FSB 5,Benthic,20/10/2021,iridophores in fin,Iridophores,20/10/2021,0,M,,d yolk_deep
+FSB 5,Benthic,20/10/2021,iridophores 4-5,Iridophores,22/10/2021,2,M,,d yolk_deep
+FSB 5,Benthic,20/10/2021,associations 3-5,Iridophores,01/11/2021,12,M,,d yolk_deep
+FSB 5,Benthic,20/10/2021,iridophores aggregate 3-5,Iridophores,01/11/2021,12,M,,d yolk_deep
+FSB 5,Benthic,20/10/2021,iridophores 5-6,Iridophores,,,M,,d yolk_deep
+FSB 5,Benthic,20/10/2021,dot xanthophores beyond 4,Xanthophore,,,M,,d yolk_deep
+FSB 5,Benthic,20/10/2021,iridophores at 7,Iridophores,25/10/2021,5,M,,d yolk_deep
+FSB 5,Benthic,20/10/2021,iridophores at next (temp) aggregation,Iridophores,25/10/2021,5,M,,d yolk_deep
+FSB 5,Benthic,20/10/2021,iridophores at site of end second aggregation ,Iridophores,,,M,,d yolk_deep
+FSB 5,Benthic,20/10/2021,associations end second aggregation,Iridophores,,,M,,d yolk_deep
+FSB 5,Benthic,20/10/2021,iridophores aggregate at end second aggregation ,Iridophores,,,M,,d yolk_deep
+FSB 5,Benthic,20/10/2021,dot xanthophores accumulate at site of end second aggregation,Xanthophore,,,M,,d yolk_deep
+FSB 6,Benthic,20/10/2021,xanthophores in fin,Xanthophore,20/10/2021,0,M,,d yolk_deep
+FSB 6,Benthic,20/10/2021,iridophores in fin,Iridophores,20/10/2021,0,M,,d yolk_deep
+FSB 6,Benthic,20/10/2021,iridophores 4-5,Iridophores,22/10/2021,2,M,,d yolk_deep
+FSB 6,Benthic,20/10/2021,associations 3-5,Iridophores,28/10/2021,8,M,,d yolk_deep
+FSB 6,Benthic,20/10/2021,iridophores aggregate 3-5,Iridophores,28/10/2021,8,M,,d yolk_deep
+FSB 6,Benthic,20/10/2021,iridophores 5-6,Iridophores,,,M,,d yolk_deep
+FSB 6,Benthic,20/10/2021,dot xanthophores beyond 4,Xanthophore,,,M,,d yolk_deep
+FSB 6,Benthic,20/10/2021,iridophores at 7,Iridophores,25/10/2021,5,M,,d yolk_deep
+FSB 6,Benthic,20/10/2021,iridophores at next (temp) aggregation,Iridophores,25/10/2021,5,M,,d yolk_deep
+FSB 6,Benthic,20/10/2021,iridophores at site of end second aggregation ,Iridophores,25/10/2021,5,M,,d yolk_deep
+FSB 6,Benthic,20/10/2021,associations end second aggregation,Iridophores,28/10/2021,8,M,,d yolk_deep
+FSB 6,Benthic,20/10/2021,iridophores aggregate at end second aggregation ,Iridophores,01/11/2021,12,M,,d yolk_deep
+FSB 6,Benthic,20/10/2021,dot xanthophores accumulate at site of end second aggregation,Xanthophore,,,M,,d yolk_deep
+FSB 8,Benthic,20/10/2021,xanthophores in fin,Xanthophore,20/10/2021,0,M,,d yolk_deep
+FSB 8,Benthic,20/10/2021,iridophores in fin,Iridophores,.,,M,,d yolk_deep
+FSB 8,Benthic,20/10/2021,iridophores 4-5,Iridophores,.,,M,,d yolk_deep
+FSB 8,Benthic,20/10/2021,associations 3-5,Iridophores,.,,M,,d yolk_deep
+FSB 8,Benthic,20/10/2021,iridophores aggregate 3-5,Iridophores,.,,M,,d yolk_deep
+FSB 8,Benthic,20/10/2021,iridophores 5-6,Iridophores,.,,M,,d yolk_deep
+FSB 8,Benthic,20/10/2021,dot xanthophores beyond 4,Xanthophore,.,,M,,d yolk_deep
+FSB 8,Benthic,20/10/2021,iridophores at 7,Iridophores,.,,M,,d yolk_deep
+FSB 8,Benthic,20/10/2021,iridophores at next (temp) aggregation,Iridophores,24/11/2021,35,M,,d yolk_deep
+FSB 8,Benthic,20/10/2021,iridophores at site of end second aggregation ,Iridophores,09/12/2021,50,M,,d yolk_deep
+FSB 8,Benthic,20/10/2021,associations end second aggregation,Iridophores,09/12/2021,50,M,,d yolk_deep
+FSB 8,Benthic,20/10/2021,iridophores aggregate at end second aggregation ,Iridophores,09/12/2021,50,M,,d yolk_deep
+FSB 8,Benthic,20/10/2021,dot xanthophores accumulate at site of end second aggregation,Xanthophore,09/12/2021,50,M,,d yolk_deep
+FSB 10,Benthic,20/10/2021,xanthophores in fin,Xanthophore,.,,M,,d yolk_deep
+FSB 10,Benthic,20/10/2021,iridophores in fin,Iridophores,.,,M,,d yolk_deep
+FSB 10,Benthic,20/10/2021,iridophores 4-5,Iridophores,.,,M,,d yolk_deep
+FSB 10,Benthic,20/10/2021,associations 3-5,Iridophores,.,,M,,d yolk_deep
+FSB 10,Benthic,20/10/2021,iridophores aggregate 3-5,Iridophores,.,,M,,d yolk_deep
+FSB 10,Benthic,20/10/2021,iridophores 5-6,Iridophores,.,,M,,d yolk_deep
+FSB 10,Benthic,20/10/2021,dot xanthophores beyond 4,Xanthophore,.,,M,,d yolk_deep
+FSB 10,Benthic,20/10/2021,iridophores at 7,Iridophores,.,,M,,d yolk_deep
+FSB 10,Benthic,20/10/2021,iridophores at next (temp) aggregation,Iridophores,.,,M,,d yolk_deep
+FSB 10,Benthic,20/10/2021,iridophores at site of end second aggregation ,Iridophores,.,,M,,d yolk_deep
+FSB 10,Benthic,20/10/2021,associations end second aggregation,Iridophores,.,,M,,d yolk_deep
+FSB 10,Benthic,20/10/2021,iridophores aggregate at end second aggregation ,Iridophores,.,,M,,d yolk_deep
+FSB 10,Benthic,20/10/2021,dot xanthophores accumulate at site of end second aggregation,Xanthophore,.,,M,,d yolk_deep

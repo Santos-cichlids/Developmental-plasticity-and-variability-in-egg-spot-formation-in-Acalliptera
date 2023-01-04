@@ -5,10 +5,10 @@ library (ggbeeswarm)
 ###settings -------------------------
 
 #for size and appearance of plot geoms
-alpha=0.7
+alpha <- 0.7
 pointsize <- 2
 linesize <- 1
-sixteenshapes = c(15, 16, 17, 18, 15, 16, 17, 18, 15, 16, 17, 18, 15, 16, 17, 18)
+sixteenshapes <- c(15, 16, 17, 18, 15, 16, 17, 18, 15, 16, 17, 18, 15, 16, 17, 18)
 
 #For customising graph to remove standard R plot details
 theme <- theme(panel.background = element_rect(fill = "white"),
@@ -23,19 +23,19 @@ theme <- theme(panel.background = element_rect(fill = "white"),
                axis.title.x = element_text(size=12, margin = margin(t=10)))
 
 #colours for plots
-littoral= "#F5C258"
-benthic="#6896D4"
-female="#8D8A91"
-male="#BF675E"
-omb="plum"
-Madingley="palegreen3"
+littoral <- "#F5C258"
+benthic<-"#6896D4"
+female<-"#8D8A91"
+male<-"#BF675E"
+omb<-"plum"
+Madingley<-"palegreen3"
 
-socshall = "#B38E40" 
-socdeep = "#6EB2C0"
-yolkshall = "#F5C258"
-yolkdeep = "#6896D4"
-embshall = "#E6AC53"
-embdeep = "#7477C7" 
+socshall <- "#B38E40" 
+socdeep <- "#6EB2C0"
+yolkshall <- "#F5C258"
+yolkdeep <- "#6896D4"
+embshall <- "#E6AC53"
+embdeep <- "#7477C7" 
 
 #colour gradient-derived palette for trajectory plots figs 3 and S5
 littoral_pal <- colorRampPalette(c("#B38E40", "#F5C258", "#FFA023"))

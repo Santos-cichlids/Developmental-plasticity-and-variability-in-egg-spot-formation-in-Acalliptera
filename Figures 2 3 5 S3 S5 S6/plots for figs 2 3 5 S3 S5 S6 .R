@@ -50,9 +50,25 @@ SL <- read_csv("all standard lengths.csv")
 #create unique identifiers for each row for matching to other datasets
 SL$Indiv_day <- paste(SL$Individual, SL$Day, sep="_")
 
-
 #create a column for SL growth
 SL$Growth <- (SL$Standard_length_mm)- (SL$Initial_SL)
+
+all_events <- read_csv("individual events for plotting all datasets standardised.csv")
+colnames(all_events)
+
+#create unique identifiers for each row matching with SL data
+all_events$Indiv_day <- paste(all_events$Individual, all_events$Day, sep="_")
+
+#join datasets by unique identifiers 
+all_events_SL <- all_events %>% left_join(SL, by = "Indiv_day")
+
+#check no data lost (number of rows the same, columns increase)
+dim(all_events)
+dim(all_events_SL)
+
+all_events_SL$Growth <- (all_events_SL$Standard_length_mm)- (all_events_SL$Initial_SL)
+
+
 
 #remove NA values from SL column
 SL_skip <- SL[!is.na(SL$Standard_length_mm), ]
@@ -101,29 +117,16 @@ melano_plot <- ggplot(data = melano_numbers,
 
 #Diaplay 
 melano_plot
+###data subsets for fig 3 and S3-------------------------------
 
-###data for fig 3 and S3---------------------------
-
-
-#import event phenotyping 
-FS_events <- read_csv("individual events for plotting redone.csv")
-
-#create unique identifiers for each row matching between datasets
-FS_events$Indiv_day <- paste(FS_events$Individual, FS_events$Day, sep="_")
-
-#join datasets by unique identifiers 
-FS_events_SL <- FS_events %>% left_join(SL, by = "Indiv_day")
-
-#check no data lost (number of rows the same, columns increase)
-dim(FS_events)
-dim(FS_events_SL)
-
-
-###subsets for fig 3 and S3-------------------------------
+#extract only yolk cohort data
+FS_events_SL <- subset(all_events_SL, 
+                       Cohort == "c yolk_shallow" | 
+                       Cohort == "d yolk_deep")
 
 #make a subset dataframe with only earliest events
 ag_start <- subset(FS_events_SL, 
-                   Event == "iridophores near 3" | 
+                   Event == "iridophores in fin" | 
                      Event == "xanthophores in fin" |
                      Event == "associations 3-5" |
                      Event == "iridophores 4-5" )
@@ -131,7 +134,7 @@ ag_start <- subset(FS_events_SL,
 #reorder levels
 ag_start$Event <- factor(ag_start$Event, levels=c("associations 3-5",
                                                   "iridophores 4-5", 
-                                                  "iridophores near 3",
+                                                  "iridophores in fin",
                                                   "xanthophores in fin"))
 #further subsets by morph
 ag_start_shallow <- subset(ag_start, Morph.x == "Littoral")
@@ -257,25 +260,7 @@ SL_day_FS_sex <- ggplot(SL_FS, mapping = aes(x=Day, y=Standard_length_mm,
 
 SL_day_FS_sex
 
-###data for fig 5------------------------------------
-
-all_events <- read_csv("individual events for plotting all datasets standardised.csv")
-colnames(all_events)
-
-#create unique identifiers for each row matching between datasets
-all_events$Indiv_day <- paste(all_events$Individual, all_events$Day, sep="_")
-
-#join datasets by unque identifiers 
-all_events_SL <- all_events %>% left_join(SL, by = "Indiv_day")
-
-#check no data lost (number of rows the same, columns increase)
-dim(all_events)
-dim(all_events_SL)
-
-all_events_SL$Growth <- (all_events_SL$Standard_length_mm)- (all_events_SL$Initial_SL)
-
-
-###subsets for fig 5---------------------------------
+### data subsets for fig 5---------------------------------
 
 all_ag_start <- subset(all_events_SL, 
                        Event == "iridophores in fin" | 
@@ -336,22 +321,10 @@ plasticity_growth <-ggplot(data = all_ag_start,
 
 plasticity_growth
 
-### data for S5-------------------------
+### data subsets for S5------------------
 
-#import event phenotyping 
-DA_events <- read_csv("individual events for plotting benthic adult.csv")
-
-#create unique identifiers for each row matching between datasets
-DA_events$Indiv_day <- paste(DA_events$Individual, DA_events$Day, sep="_")
-
-#join datasets by unque identifiers 
-DA_events_SL <- DA_events %>% left_join(SL, by = "Indiv_day")
-
-#check no data lost (number of rows the same, columns increase)
-dim(DA_events)
-dim(DA_events_SL)
-
-###subsets for S5------------------
+DA_events_SL <- subset(all_events_SL, 
+                       Cohort == "b socialised_deep")
 
 #make a subset dataframe with only earliest events
 DAag_start <- subset(DA_events_SL, 

@@ -1,24 +1,32 @@
-install.packages("biomaRT")
-install.packages("carData")
-install.packages("sm")
-install.packages("interplot")
-install.packages("multcomp")
-install.packages("postHoc")
-install.packages("ggResidpanel")
 
-library(ggResidpanel)
 library(ggplot2)
-library(ggpubr)
-library(car)
 library(nortest)
-library(sm)
+library(nlme)
 library(interplot)
-library(multcomp)
-library(postHoc)
+
 
 
 #First set the wd and then read in the data
 xantho_scatter <- read.csv("xantho_trial_deep_adults.csv", header = TRUE, sep = ",")
+
+#Plot theme
+
+theme <- theme (legend.title = element_blank(),
+                legend.position = c(.9,.1),
+                legend.background = element_rect(colour = "white", fill = "white"), 
+                legend.box.background = element_rect(colour = "white", fill = "white"), 
+                legend.key = element_rect(colour = "white", fill = "white"),
+                legend.text = element_text(size = 12, colour = "black"), 
+                plot.title = element_text(hjust = 0.25, size = 12), 
+                axis.text = element_text(size = 12, colour = "black"), 
+                panel.border = element_blank(), panel.grid.major = element_blank(), 
+                panel.grid.minor = element_blank(), 
+                axis.line = element_line(colour = "black", size=1),
+                panel.background = element_rect(fill = "white"),
+                plot.background = element_rect(colour = "white", fill = "white"), 
+                axis.title.y = element_text(size = 12, colour = "black", margin = margin (t = 12)), 
+                axis.title.x = element_text(size = 12, colour = "black", margin = margin(t = 10)))
+
 
 head(xantho_scatter)
 
@@ -53,62 +61,29 @@ hist(xantho_scatter$Log_Area)
 ad.test(xantho_scatter$SL)
 hist(xantho_scatter$SL)
 
-#SL p-value result is >0.05. We reject the null hypothesis and 
 #infer that the SL data follows a normal distribution
 
 ###--------------------------Linear regression model------------------------###
 
-#Repeated measures linear regression mixed model to test the effect of Sex, SL and the interaction between
+#Repeated measures linear regression mixed effect model to test the effect of Sex, SL and the interaction between
 #SL and sex on the xanthophore area.
 
-model.1 <- lme(Log_Area ~ Sex + Sex*SL, random = ~1 |id/SL, data = xantho_scatter)
+model.1 <- lme(Log_Area ~ Sex + SL+ Sex*SL, random = ~1 |id, data = xantho_scatter)
 summary(model.1)
 
-#results
-#Interaction interpretation: The effect of sex on xanthophore area coverage is significantly stronger than that of 
-#SL which has a no significant impact on xanthophore area coverage. 
+sjPlot::plot_model(model.1, 
+                   axis.labels=c("Sex[M]*SL", "SL", "Sex"),
+                   show.values=TRUE, show.p=TRUE,
+                   title="Effect of Sex, SL and interaction on Xanthophore area")+theme
 
-#Check residuals
-resid_panel(model.1)
 
-#Interaction plot to visualise the correlation between two interaction terms
-interplot(m = model.1, var1 = 'SexM', var2 = 'SL')+
-  labs(x = "Sex", y = "coefficient for SL")
-
-#Due to the significant difference in slopes we can reject the H0
-#There is a difference in slopes
-
-#Posthoc test required to give further information on effect of male and female
-
-Posthoc_Male <- posthoc(Model = model.1, EffectLabels = xantho_scatter$SexM, digits = 2)
-summary(Posthoc_Male)
-
-barplot(Posthoc_Male)
-
-#Define colours for the plots
-cols <- c("#8D8A91", "#BF675E")
+sjPlot:: tab_model(model.1)
 
 
 #Define colours for the plots
 cols <- c("#8D8A91", "#BF675E")
 
-#theme
 
-theme <- theme (legend.title = element_blank(),
-                legend.position = c(.9,.1),
-                legend.background = element_rect(colour = "white", fill = "white"), 
-                legend.box.background = element_rect(colour = "white", fill = "white"), 
-                legend.key = element_rect(colour = "white", fill = "white"),
-                legend.text = element_text(size = 12, colour = "black"), 
-                plot.title = element_text(hjust = 0.25, size = 12), 
-                axis.text = element_text(size = 12, colour = "black"), 
-                panel.border = element_blank(), panel.grid.major = element_blank(), 
-                panel.grid.minor = element_blank(), 
-                axis.line = element_line(colour = "black", size=1),
-                panel.background = element_rect(fill = "white"),
-                plot.background = element_rect(colour = "white", fill = "white"), 
-                axis.title.y = element_text(size = 12, colour = "black", margin = margin (t = 12)), 
-                axis.title.x = element_text(size = 12, colour = "black", margin = margin(t = 10)))
 #plot 
 
 xantho_plot <- ggplot(data = xantho_scatter, aes(x = SL, y = Log_Area))+
@@ -117,6 +92,7 @@ xantho_plot <- ggplot(data = xantho_scatter, aes(x = SL, y = Log_Area))+
   geom_smooth(aes(x = SL, y = Log_Area, color = Sex), method = lm, se = FALSE, size = 2)+
   labs(title = " ", x = "SL", y = bquote(Log_Area (mm^2)))+
   theme 
-  
+
 #Display plot
 xantho_plot
+

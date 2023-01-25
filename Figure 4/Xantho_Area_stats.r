@@ -55,8 +55,6 @@ hist(xantho_scatter$Area)
 ad.test(xantho_scatter$Log_Area)
 hist(xantho_scatter$Log_Area)
 
-#Log transformed data p = 0.03638
-
 
 ad.test(xantho_scatter$SL)
 hist(xantho_scatter$SL)
@@ -68,13 +66,13 @@ hist(xantho_scatter$SL)
 #Repeated measures linear regression mixed effect model to test the effect of Sex, SL and the interaction between
 #SL and sex on the xanthophore area.
 
-model.1 <- lme(Log_Area ~ Sex + SL+ Sex*SL, random = ~1 |id, data = xantho_scatter)
+model.1 <- lme(Log_Area ~ Sex + SL + Sex*SL, random = ~1 |id, data = xantho_scatter)
 summary(model.1)
 
 sjPlot::plot_model(model.1, 
-                   axis.labels=c("Sex[M]*SL", "SL", "Sex"),
-                   show.values=TRUE, show.p=TRUE,
-                   title="Effect of Sex, SL and interaction on Xanthophore area")+theme
+                   axis.labels = c("Sex[M]*SL", "SL", "Sex"),
+                   show.values = TRUE, show.p = TRUE,
+                   title = "Effect of Sex, SL and interaction on Xanthophore area")+theme
 
 
 sjPlot:: tab_model(model.1)

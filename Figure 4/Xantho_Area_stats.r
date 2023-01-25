@@ -9,6 +9,9 @@ library(interplot)
 #First set the wd and then read in the data
 xantho_scatter <- read.csv("xantho_trial_deep_adults.csv", header = TRUE, sep = ",")
 
+#Define colours for the plots
+cols <- c("#8D8A91", "#BF675E")
+
 #Plot theme
 
 theme <- theme (legend.title = element_blank(),
@@ -116,9 +119,6 @@ sjPlot:: tab_model(model.1)
 #Model plot demonstrates the significant large effect due to sex
 #Plot also demonstrates the highly significant result due to the interaction between SL and sex but a small effect size
 #Effect is entirely due to sex
-
-#Define colours for the plots
-cols <- c("#8D8A91", "#BF675E")
 
 
 #plot 

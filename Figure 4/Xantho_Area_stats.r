@@ -84,7 +84,7 @@ ggscatter(femaledata, x = "Day", y = "Log_Area",
 
 ###---------------------------Size comparisons-----------------------------###
 
-Last_day <- subset(xantho_scatter, Day == "141")
+Last_day <- subset(xantho_scatter, Day == "148")
 Last_day
 
 t.test(data = Last_day, SL~Sex)

@@ -69,13 +69,14 @@ femaledata <- subset(xantho_scatter, Sex == "F")
 ggscatter(maledata, x = "Day", y = "Log_Area", 
           add = "reg.line", conf.int = TRUE, 
           cor.coef = TRUE, cor.method = "pearson",
+          color = "#8D8A91",
           xlab = "Day", ylab = "Log Area")
 
 ggscatter(femaledata, x = "Day", y = "Log_Area", 
           add = "reg.line", conf.int = TRUE, 
           cor.coef = TRUE, cor.method = "pearson",
+          color = "#BF675E",
           xlab = "Day", ylab = "Log Area")
-
 
 ###--------------------------Linear regression model------------------------###
 

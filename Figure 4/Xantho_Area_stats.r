@@ -86,6 +86,9 @@ Last_day
 
 t.test(data = Last_day, SL~Sex)
 
+#Male Standard Lengths are significantly larger than female standard lenghts on the last day of the study
+
+#Plot results as a boxplot
 Size_plot <- ggplot(data = Last_day, aes(x = Sex, y = SL))+
   geom_boxplot(data = Last_day, aes(x = Sex, y = SL, colour = Sex), alpha = 1, size = 2)+
   scale_color_manual(labels = c("female", "male"),values = cols)+
@@ -110,6 +113,9 @@ sjPlot::plot_model(model.1,
 
 sjPlot:: tab_model(model.1)
 
+#Model plot demonstrates the significant large effect due to sex
+#Plot also demonstrates the highly significant result due to the interaction between SL and sex but a small effect size
+#Effect is entirely due to sex
 
 #Define colours for the plots
 cols <- c("#8D8A91", "#BF675E")

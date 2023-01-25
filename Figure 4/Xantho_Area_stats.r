@@ -61,6 +61,22 @@ hist(xantho_scatter$SL)
 
 #infer that the SL data follows a normal distribution
 
+###--------------Correlations-----------------###
+
+maledata <- subset(xantho_scatter, Sex == "M")
+femaledata <- subset(xantho_scatter, Sex == "F")
+
+ggscatter(maledata, x = "Day", y = "Log_Area", 
+          add = "reg.line", conf.int = TRUE, 
+          cor.coef = TRUE, cor.method = "pearson",
+          xlab = "Day", ylab = "Log Area")
+
+ggscatter(femaledata, x = "Day", y = "Log_Area", 
+          add = "reg.line", conf.int = TRUE, 
+          cor.coef = TRUE, cor.method = "pearson",
+          xlab = "Day", ylab = "Log Area")
+
+
 ###--------------------------Linear regression model------------------------###
 
 #Repeated measures linear regression mixed effect model to test the effect of Sex, SL and the interaction between

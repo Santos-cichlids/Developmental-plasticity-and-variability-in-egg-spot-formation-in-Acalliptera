@@ -78,6 +78,14 @@ ggscatter(femaledata, x = "Day", y = "Log_Area",
           color = "#BF675E",
           xlab = "Day", ylab = "Log Area")
 
+
+###---------------------------Size comparisons-----------------------------###
+
+Last_day <- subset(xantho_scatter, Day == "141")
+Last_day
+
+t.test(data = Last_day, SL~Sex)
+
 ###--------------------------Linear regression model------------------------###
 
 #Repeated measures linear regression mixed effect model to test the effect of Sex, SL and the interaction between

@@ -89,7 +89,7 @@ t.test(data = Last_day, SL~Sex)
 Size_plot <- ggplot(data = Last_day, aes(x = Sex, y = SL))+
   geom_boxplot(data = Last_day, aes(x = Sex, y = SL, colour = Sex), alpha = 1, size = 2)+
   scale_color_manual(labels = c("female", "male"),values = cols)+
-  labs(title = " ", y = "SL", x = "Sex")+
+  labs(title = " ", y = "SL (mm)", x = "Sex")+
   theme
 
 Size_plot

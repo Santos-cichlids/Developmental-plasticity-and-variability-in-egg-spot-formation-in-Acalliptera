@@ -21,6 +21,10 @@ CSV file containing standard lengths for each individual on each imaging session
  - Melanophore_coverage.csv
 
 CSV file containing counts of melanophores in each measured fin image and summary data for iridophore appearance. Embryo and yolk closure cohorts. Melanophore coverage data generated using Affinity Photo, ilastik, Fiji (see methods); iridophore appearance summary data from "individual events for plotting all datasets standardised.csv" dataset.
+
+ - Statistics Figure 5 Table S2 .R
+ 
+R script running the plasticity stats tests for Figure 5/Table S2 using "individual events for plotting all datasets standardised.csv"
  
  
  

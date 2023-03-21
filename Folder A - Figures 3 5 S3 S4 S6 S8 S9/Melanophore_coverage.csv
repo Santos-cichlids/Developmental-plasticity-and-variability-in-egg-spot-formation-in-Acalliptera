@@ -1,0 +1,219 @@
+dpf	Date	Embryo	Melanophore_numbers	Morph	chromatophore	stage	Littoral iridophore appearance stats				Benthic iridophore appearance stats					
+10	30/06/2021	1	15	Littoral	null	embryo	Min	Max	Range	Mean	Min	Max	Range	Mean		
+10	30/06/2021	2	16	Littoral	melanophore	embryo	20	23	3	21.4	18	21	3	19.14		
+10	30/06/2021	3	25	Littoral	melanophore	embryo										
+10	30/06/2021	4	6	Littoral	melanophore	embryo										
+10	30/06/2021	5	9	Littoral	melanophore	embryo										
+10	30/06/2021	6	27	Littoral	melanophore	embryo										
+10	30/06/2021	7	2	Littoral	melanophore	embryo										
+10	30/06/2021	8	18	Littoral	melanophore	embryo										
+10	30/06/2021	9	13	Littoral	null	embryo										
+11	01/07/2021	1	62	Littoral	null	embryo										
+11	01/07/2021	2	47	Littoral	null	embryo										
+11	01/07/2021	3	68	Littoral	null	embryo										
+11	01/07/2021	4	85	Littoral	null	embryo										
+11	01/07/2021	5	99	Littoral	null	embryo										
+11	01/07/2021	6	40	Littoral	null	embryo										
+11	01/07/2021	7	60	Littoral	null	embryo										
+11	01/07/2021	8	45	Littoral	null	embryo										
+11	01/07/2021	9	90	Littoral	null	embryo										
+12	02/07/2021	1	64	Littoral	melanophore	embryo										
+12	02/07/2021	2	204	Littoral	null	embryo										
+12	02/07/2021	3	122	Littoral	null	embryo										
+12	02/07/2021	4	107	Littoral	null	embryo										
+12	02/07/2021	5	133	Littoral	null	embryo										
+12	02/07/2021	6	123	Littoral	null	embryo										
+12	02/07/2021	7	132	Littoral	null	embryo										
+12	02/07/2021	8	132	Littoral	null	embryo										
+12	02/07/2021	9	96	Littoral	melanophore	embryo										
+13	03/07/2021	1	87	Littoral	null	embryo										
+13	03/07/2021	2	150	Littoral	null	embryo										
+13	03/07/2021	3	151	Littoral	null	embryo										
+13	03/07/2021	4	181	Littoral	xanthophore	embryo										
+13	03/07/2021	5	221	Littoral	null	embryo										
+13	03/07/2021	6	58	Littoral	null	embryo										
+13	03/07/2021	7	134	Littoral	null	embryo										
+13	03/07/2021	8	90	Littoral	null	embryo										
+13	03/07/2021	9	90	Littoral	null	embryo										
+14	04/07/2021	1	122	Littoral	null	embryo										
+14	04/07/2021	2	72	Littoral	null	embryo										
+14	04/07/2021	3	167	Littoral	null	embryo										
+14	04/07/2021	4	161	Littoral	null	embryo										
+14	04/07/2021	5	124	Littoral	null	embryo										
+14	04/07/2021	6	73	Littoral	null	embryo										
+14	04/07/2021	7	139	Littoral	null	embryo										
+14	04/07/2021	8	158	Littoral	null	embryo										
+14	04/07/2021	9	70	Littoral	null	embryo										
+15	05/07/2021	1	119	Littoral	null	embryo										
+15	05/07/2021	2	150	Littoral	xanthophore	embryo										
+15	05/07/2021	3	74	Littoral	null	embryo										
+15	05/07/2021	4	147	Littoral	null	embryo										
+15	05/07/2021	5	85	Littoral	xanthophore	embryo										
+15	05/07/2021	6	86	Littoral	xanthophore	embryo										
+15	05/07/2021	7	70	Littoral	null	embryo										
+15	05/07/2021	8	145	Littoral	xanthophore	embryo										
+15	05/07/2021	9	157	Littoral	null	embryo										
+16	06/07/2021	1	155	Littoral	xanthophore	embryo										
+16	06/07/2021	2	116	Littoral	null	embryo										
+16	06/07/2021	3	103	Littoral	null	embryo										
+16	06/07/2021	4	166	Littoral	null	embryo										
+16	06/07/2021	5	210	Littoral	null	embryo										
+16	06/07/2021	6	180	Littoral	null	embryo										
+16	06/07/2021	7	122	Littoral	null	embryo										
+16	06/07/2021	8	233	Littoral	null	embryo										
+16	06/07/2021	9	150	Littoral	null	embryo										
+17	07/07/2021	1	177	Littoral	null	embryo										
+17	07/07/2021	2	195	Littoral	null	embryo										
+17	07/07/2021	3	132	Littoral	null	embryo										
+17	07/07/2021	4	155	Littoral	null	embryo										
+17	07/07/2021	5	129	Littoral	null	embryo										
+17	07/07/2021	6	136	Littoral	null	embryo										
+17	07/07/2021	7	292	Littoral	xanthophore	embryo										
+17	07/07/2021	8	210	Littoral	null	embryo										
+17	07/07/2021	9	109	Littoral	xanthophore	embryo										
+18	08/07/2021	1	214	Littoral	null	embryo										
+18	08/07/2021	2	225	Littoral	null	embryo										
+18	08/07/2021	3	153	Littoral	null	embryo										
+18	08/07/2021	4	149	Littoral	null	embryo										
+18	08/07/2021	5	132	Littoral	null	embryo										
+18	08/07/2021	6	224	Littoral	null	embryo										
+18	08/07/2021	7	255	Littoral	null	embryo										
+18	08/07/2021	8	340	Littoral	null	embryo										
+18	08/07/2021	9	162	Littoral	null	embryo										
+19	09/07/2021	1	255	Littoral	null	embryo										
+19	09/07/2021	2	190	Littoral	null	embryo										
+19	09/07/2021	3	195	Littoral	xanthophore	embryo										
+19	09/07/2021	4	234	Littoral	null	embryo										
+19	09/07/2021	5	135	Littoral	null	embryo										
+19	09/07/2021	6	180	Littoral	null	embryo										
+19	09/07/2021	7	323	Littoral	null	embryo										
+19	09/07/2021	8	218	Littoral	null	embryo										
+19	09/07/2021	9	201	Littoral	null	embryo										
+20	10/07/2021	1	313	Littoral	null	embryo										
+20	10/07/2021	2	210	Littoral	iridophore	embryo										
+20	10/07/2021	3	552	Littoral	null	embryo										
+20	10/07/2021	4	177	Littoral	null	embryo										
+20	10/07/2021	5	232	Littoral	null	embryo										
+20	10/07/2021	6	226	Littoral	null	embryo										
+20	10/07/2021	7	479	Littoral	null	embryo										
+20	10/07/2021	8	235	Littoral	null	embryo										
+21	11/07/2021	4	null	Littoral	iridophore	yolk closure										
+21	11/07/2021	5	null	Littoral	iridophore	yolk closure										
+22	12/07/2021	3	null	Littoral	iridophore	yolk closure										
+23	13/07/2021	6	null	Littoral	iridophore	yolk closure										
+	13/08/2021	A1	347	Littoral	null	yolk closure										
+	13/08/2021	A2	253	Littoral	null	yolk closure										
+	13/08/2021	EA3	436	Littoral	null	yolk closure										
+	13/08/2021	EA4	219	Littoral	null	yolk closure										
+	13/08/2021	EA5	286	Littoral	null	yolk closure										
+	13/08/2021	EA6	134	Littoral	null	yolk closure										
+	13/08/2021	A7	163	Littoral	null	yolk closure										
+	13/08/2021	A8	210	Littoral	null	yolk closure										
+	16/08/2021	A1	316	Littoral	null	yolk closure										
+	16/08/2021	A2	270	Littoral	null	yolk closure										
+	16/08/2021	EA3	219	Littoral	null	yolk closure										
+	16/08/2021	EA4	274	Littoral	null	yolk closure										
+	16/08/2021	EA5	254	Littoral	null	yolk closure										
+	16/08/2021	EA6	190	Littoral	null	yolk closure										
+	16/08/2021	EA7	159	Littoral	null	yolk closure										
+	16/08/2021	A8	247	Littoral	null	yolk closure										
+	19/08/2021	A1	15	Littoral	null	yolk closure										
+	19/08/2021	A2	24	Littoral	null	yolk closure										
+	19/08/2021	EA3	74	Littoral	null	yolk closure										
+	19/08/2021	EA4	66	Littoral	null	yolk closure										
+	19/08/2021	EA5	105	Littoral	null	yolk closure										
+	19/08/2021	EA6	54	Littoral	null	yolk closure										
+	19/08/2021	A7	30	Littoral	null	yolk closure										
+	19/08/2021	A8	140	Littoral	null	yolk closure										
+	27/08/2021	A1	12	Littoral	null	yolk closure										
+	27/08/2021	A2	9	Littoral	null	yolk closure										
+	27/08/2021	EA3	7	Littoral	null	yolk closure										
+	27/08/2021	EA4	13	Littoral	null	yolk closure										
+	27/08/2021	EA5	17	Littoral	null	yolk closure										
+	27/08/2021	EA6	9	Littoral	null	yolk closure										
+	27/08/2021	A7	2	Littoral	null	yolk closure										
+	27/08/2021	A8	6	Littoral	null	yolk closure										
+10	01/03/2022	1	3	Benthic	melanophore	embryo										
+10	01/03/2022	2	4	Benthic	melanophore	embryo										
+10	01/03/2022	3	3	Benthic	melanophore	embryo										
+10	01/03/2022	4	2	Benthic	melanophore	embryo										
+10	01/03/2022	5	3	Benthic	melanophore	embryo										
+10	01/03/2022	6	6	Benthic	melanophore	embryo										
+10	01/03/2022	7	11	Benthic	melanophore	embryo										
+10	01/03/2022	8	0	Benthic	null	embryo										
+11	02/03/2022	1	7	Benthic	xanthophore	embryo										
+11	02/03/2022	2	16	Benthic	null	embryo										
+11	02/03/2022	3	27	Benthic	xanthophore	embryo										
+11	02/03/2022	4	12	Benthic	xanthophore	embryo										
+11	02/03/2022	5	21	Benthic	xanthophore	embryo										
+11	02/03/2022	6	25	Benthic	null	embryo										
+11	02/03/2022	7	25	Benthic	xanthophore	embryo										
+11	02/03/2022	8	7	Benthic	xanthophore	embryo										
+11	02/03/2022	8	7	Benthic	melanophore	embryo										
+14	05/03/2022	1	80	Benthic	null	embryo										
+14	05/03/2022	2	135	Benthic	null	embryo										
+14	05/03/2022	3	94	Benthic	null	embryo										
+14	05/03/2022	4	109	Benthic	null	embryo										
+14	05/03/2022	5	80	Benthic	null	embryo										
+14	05/03/2022	6	58	Benthic	xanthophore	embryo										
+14	05/03/2022	7	128	Benthic	null	embryo										
+14	05/03/2022	8	109	Benthic	null	embryo										
+16	07/03/2022	1	156	Benthic	null	embryo										
+16	07/03/2022	2	200	Benthic	null	embryo										
+16	07/03/2022	3	148	Benthic	null	embryo										
+16	07/03/2022	4	211	Benthic	null	embryo										
+16	07/03/2022	5	90	Benthic	null	embryo										
+16	07/03/2022	6	154	Benthic	null	embryo										
+16	07/03/2022	7	198	Benthic	null	embryo										
+16	07/03/2022	8	176	Benthic	null	embryo										
+18	09/03/2022	1	380	Benthic	null	embryo										
+18	09/03/2022	2	430	Benthic	iridophore	embryo										
+18	09/03/2022	3	530	Benthic	iridophore	embryo										
+18	09/03/2022	4	431	Benthic	iridophore	embryo										
+18	09/03/2022	5	260	Benthic	iridophore	embryo										
+18	09/03/2022	6	315	Benthic	null	embryo										
+18	09/03/2022	7	424	Benthic	null	embryo										
+18	09/03/2022	8	315	Benthic	null	embryo										
+20	11/03/2022	1	493	Benthic	iridophore	embryo										
+20	11/03/2022	2	419	Benthic	null	embryo										
+20	11/03/2022	3	568	Benthic	null	embryo										
+20	11/03/2022	4	351	Benthic	null	embryo										
+20	11/03/2022	5	145	Benthic	null	embryo										
+20	11/03/2022	6	430	Benthic	null	embryo										
+20	11/03/2022	7	501	Benthic	null	embryo										
+20	11/03/2022	8	307	Benthic	null	embryo										
+21	12/03/2022	1	411	Benthic	null	embryo										
+21	12/03/2022	2	579	Benthic	null	embryo										
+21	12/03/2022	3	602	Benthic	null	embryo										
+21	12/03/2022	4	502	Benthic	null	embryo										
+21	12/03/2022	5	285	Benthic	null	embryo										
+21	12/03/2022	6	382	Benthic	iridophore	embryo										
+21	12/03/2022	7	563	Benthic	iridophore	embryo										
+21	12/03/2022	8	490	Benthic	null	embryo										
+21	20/10/2021	1	393	Benthic	null	yolk closure										
+21	20/10/2021	2	392	Benthic	null	yolk closure										
+21	20/10/2021	3	560	Benthic	null	yolk closure										
+21	20/10/2021	4	403	Benthic	null	yolk closure										
+21	20/10/2021	5	443	Benthic	null	yolk closure										
+21	20/10/2021	6	395	Benthic	null	yolk closure										
+21	20/10/2021	7	522	Benthic	null	yolk closure										
+21	20/10/2021	8	521	Benthic	null	yolk closure										
+26	25/10/2021	1	213	Benthic	null	yolk closure										
+26	25/10/2021	2	218	Benthic	null	yolk closure										
+26	25/10/2021	3	293	Benthic	null	yolk closure										
+26	25/10/2021	4	315	Benthic	null	yolk closure										
+26	25/10/2021	5	123	Benthic	null	yolk closure										
+26	25/10/2021	6	283	Benthic	null	yolk closure										
+29	28/10/2021	1	118	Benthic	null	yolk closure										
+29	28/10/2021	2	84	Benthic	null	yolk closure										
+29	28/10/2021	3	97	Benthic	null	yolk closure										
+29	28/10/2021	4	91	Benthic	null	yolk closure										
+29	28/10/2021	5	62	Benthic	null	yolk closure										
+29	28/10/2021	6	123	Benthic	null	yolk closure										
+33	01/11/2021	1	44	Benthic	null	yolk closure										
+33	01/11/2021	2	25	Benthic	null	yolk closure										
+33	01/11/2021	3	35	Benthic	null	yolk closure										
+33	01/11/2021	4	40	Benthic	null	yolk closure										
+33	01/11/2021	5	44	Benthic	null	yolk closure										
+33	01/11/2021	6	94	Benthic	null	yolk closure										
+																

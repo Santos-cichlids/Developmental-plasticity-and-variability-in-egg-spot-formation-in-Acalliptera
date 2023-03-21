@@ -7,6 +7,7 @@ Data files are grouped by R script: one for figures 3, 5, S3 ,S4, S6, S8, and S9
 Folder A - Figures 3 5 S3 S4 S6 S8 S9:
 
  - Plots for figs 3 5 S3 S4 S6 S8 S9.R
+
 R script generating graphs for listed figures using all CSV files in this folder
  
  - individual events for plotting all datasets standardised.csv

@@ -1,6 +1,7 @@
 ###packages---------------------------
 library(tidyverse)
 library (ggbeeswarm)
+library(ggsurvfit)
 
 ###settings -------------------------
 
@@ -141,6 +142,19 @@ ag_start$Event <- factor(ag_start$Event, levels=c("associations 3-5",
 ag_start_shallow <- subset(ag_start, Morph.x == "Littoral")
 ag_start_deep <- subset(ag_start, Morph.x == "Benthic")
 
+#subsets by event
+xanthfin <- subset(ag_start, 
+                   Event == "xanthophores in fin")
+
+iridfin <- subset(ag_start, 
+                  Event == "iridophores in fin")
+
+irid45 <- subset(ag_start, 
+                 Event == "iridophores 4-5" )
+
+assoc <- subset(ag_start, 
+                Event == "associations 3-5")
+
 ###plots for fig S3-----------------------------------
 
 #Trajectory by SL and morph differentiated by indiv with morph palette
@@ -191,6 +205,53 @@ traj_growth_indiv <- ggplot(ag_start,
   scale_y_discrete(labels = function(x) lapply(strwrap(x, width = 10, simplify = FALSE), paste, collapse="\n"))
 
 traj_growth_indiv
+
+
+####plots for fig s3 Kaplan-Meier----------
+
+###survival stats plots
+survfit2(Surv(time, status) ~ 1, data = xanthfin) %>% 
+  ggsurvfit() +
+  labs(
+    x = "Days",
+    y = "Overall probability that event not yet happened"
+  ) +
+  add_confidence_interval() +
+  add_risktable()+
+  ggtitle("Xanthophores in fin")
+
+survfit2(Surv(time, status) ~ 1, data = iridfin) %>% 
+  ggsurvfit() +
+  labs(
+    x = "Days",
+    y = "Overall probability that event not yet happened"
+  ) +
+  add_confidence_interval() +
+  add_risktable()+
+  ggtitle("Iridophores in fin")+
+  scale_x_continuous(breaks=c(0,2,3))
+
+survfit2(Surv(time, status) ~ 1, data = irid45) %>% 
+  ggsurvfit() +
+  labs(
+    x = "Days",
+    y = "Overall probability that event not yet happened"
+  ) +
+  add_confidence_interval() +
+  add_risktable()+
+  ggtitle("Iridophores between fin rays 4-5")+
+  scale_x_continuous(breaks=c(0,2,3,5,6,8,9))
+
+survfit2(Surv(time, status) ~ 1, data = assoc) %>% 
+  ggsurvfit() +
+  labs(
+    x = "Days",
+    y = "Overall probability that event not yet happened"
+  )+ 
+  add_confidence_interval() +
+  add_risktable()+
+  ggtitle("Iridophore-xanthophore associations")+
+  scale_x_continuous(breaks=c(0,2,3,5,6,8,9,12,14,15,19,23,24,29))
 
 
 ###plots for fig S4--------------------

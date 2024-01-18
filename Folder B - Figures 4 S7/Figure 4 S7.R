@@ -67,8 +67,8 @@ deep$log_area <- log(deep$Area)
 
 deep
 
-ad.test(log_area)
-hist(log_area)
+ad.test(deep$log_area)
+hist(deep$log_area)
 
 
 ad.test(deep$Day)
@@ -165,8 +165,8 @@ shallow$log_area <- log(shallow$Area)
 
 shallow
 
-ad.test(log_area)
-hist(log_area)
+ad.test(shallow$log_area)
+hist(shallow$log_area)
 
 
 ad.test(shallow$Day)
@@ -229,7 +229,6 @@ shallow_plot <- ggplot(data = shallow_clean, aes(x = Day, y = log_area))+
 
 #Display plot
 shallow_plot
-
 
 
 

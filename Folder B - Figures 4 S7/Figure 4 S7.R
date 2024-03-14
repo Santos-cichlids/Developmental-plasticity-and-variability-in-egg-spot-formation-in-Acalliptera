@@ -138,6 +138,7 @@ sjPlot:: tab_model(model.deep)
 
 ############### Results ###############
 Deep water LMM summary results:
+
 Fixed effects:  log_area ~ Sex + Day + Sex * Day
                      Value (Estimate/beta)     Std.Error    DF    t-value     p-value
 (Intercept)          -3.442986                 0.2267897    97   -15.181403   0.0000

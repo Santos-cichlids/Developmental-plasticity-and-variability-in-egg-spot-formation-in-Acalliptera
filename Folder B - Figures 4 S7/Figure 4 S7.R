@@ -136,6 +136,15 @@ sjPlot:: tab_model(model.deep)
 #Plot also demonstrates the highly significant result due to the interaction between SL and sex but a small effect size
 #Effect is entirely due to sex
 
+############### Results ###############
+Deep water LMM summary results:
+Fixed effects:  log_area ~ Sex + Day + Sex * Day
+                     Value (Estimate/beta)     Std.Error    DF    t-value     p-value
+(Intercept)          -3.442986                 0.2267897    97   -15.181403   0.0000
+SexM                  0.832108                 0.3256024    8     2.555596    0.0339
+Day                  -0.001401                 0.0023624    97   -0.592953    0.5546
+SexM:Day             -0.019255                 0.0033030    97   -5.829644    0.0000
+
 
 #plot 
 
@@ -217,6 +226,16 @@ sjPlot:: tab_model(model.shallow)
 #Plot also demonstrates the highly significant result due to the interaction between Day and sex but a small effect size
 #Effect is entirely due to sex
 
+
+############### Results ###############
+Shallow water LLM summary results:
+
+Fixed effects:  log_area ~ Sex + Day + Sex * Day
+                Value       Std.Error       DF   t-value      p-value
+(Intercept)   -3.288525     0.4275109       75   -7.692259    0.0000
+SexM          0.994025      0.5780521        7    1.719612    0.1292
+Day           -0.002237     0.0076786       75   -0.291309    0.7716
+SexM:Day      -0.086683     0.0106390       75   -8.147708    0.0000
 
 #plot 
 
